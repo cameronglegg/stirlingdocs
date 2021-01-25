@@ -37,11 +37,11 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
+              label: 'Introduction',
               to: 'docs/',
             },
             {
-              label: 'Second Doc',
+              label: 'Site Measurements',
               to: 'docs/doc2/',
             },
           ],
