@@ -3,6 +3,15 @@ id: doc2
 title: Site Measurements
 ---
 
+<!-- This is an MDX script that you add a highlight colour to text. Just add the "<Highlight>sample text</Highlight>" and set the Hex Value for your "color" inline, and voila! -->
+
+export const Highlight = ({children, color}) => ( <span style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>{children}</span> );
+
 ## What is Site Measurement?
 
 The purpose of site measurements at Sitrling Woodworks is to ensure that all products fit exactly within the physical constraints of the clients space.
@@ -36,11 +45,17 @@ This can either be your own personal laser measuring device or Stirling owns a L
 
 If you plan on creating digital markups pease see the [Digital Markup documentation.](digimark.md)
 
-::
+:::
 
 ## Who should carry out the Site Measurement?
 
-All site measurement should be carried out by the person creating the drawings. This means that the engineer creating the drawings will have to schedule a time to go through the site with either the site supervisor or the client. If you have questions or concerns regarding contacting external contact please see the [External Contact documentation.](externalcomm.md)
+All site measurement should be carried out by <Highlight color="#db3125">the person creating the drawings.</Highlight> This means that the engineer creating the drawings will have to schedule a time to go through the site with either the site supervisor or the client.
+
+:::tip
+
+If you have questions or concerns regarding contacting external contact please see the [External Contact documentation.](externalcomm.md)
+
+:::
 
 ## Dependancies
 
