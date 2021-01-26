@@ -3,15 +3,6 @@ id: delivery2
 title: Cabinet Delivery
 ---
 
-<!-- This is an MDX script that you add a highlight colour to text. Just add the "<Highlight>sample text</Highlight>" and set the Hex Value for your "color" inline, and voila! -->
-
-export const Highlight = ({children, color}) => ( <span style={{
-      backgroundColor: color,
-      borderRadius: '2px',
-      color: '#fff',
-      padding: '0.2rem',
-    }}>{children}</span> );
-
 ## Moving the Cabinets in to the rom.
 
 Now that we have all of the logistics related to getting the cabinets into their forever homes. Lets actually deliver them!
@@ -22,7 +13,9 @@ Bring the cabinets in, as you bring them in install the legs, if its easier you 
 
 :::note
 
-Installing the legs: put the leg in the hole and use a rubber mallet to set them in to the stop on the leg. Use the jig to adjust the legs to 4”.  
+### Installing the legs
+
+Put the leg in the hole and use a rubber mallet to set them in to the stop on the leg. Use the jig to adjust the legs to 4”.  
 
 :::
 
@@ -48,10 +41,14 @@ Things laying on the floor take up much more space and are more likely to get st
 
 Deliver required tools and set them up in a place that is as close as possible to the products being installed. 
 
-<Highlight color="#OOA400">Tools that should be delivered with the cabinets: 
+:::important
+
+### Tools that should be delivered with the cabinets
 * Clean Vacuum with hose, extension tube and floor attachment
 * Table saw with a stand or work mate 
 * Chop saw with a stand 
 * Air Compressor
 * Extension Cord 
-* Fresh screw box, make sure it has the screws as per the list.</Hightlight>
+* Fresh screw box, make sure it has the screws as per the list.
+
+:::
