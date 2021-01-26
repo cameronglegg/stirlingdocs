@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Stirling: ['doc1', 
+    Stirling: ['doc1', 'toollist',
     {
       Planning: ['doc2', 'doc3', 'digimark', 'externalcomm']
     },
