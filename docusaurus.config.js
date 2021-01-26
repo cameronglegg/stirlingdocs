@@ -51,7 +51,7 @@ module.exports = {
           items: [
             {
               label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              href: 'https://stackoverflow.com/c/stirling-woodworks/questions',
             },
             {
               label: 'Discord',
@@ -66,10 +66,10 @@ module.exports = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
+            // {
+              // label: 'Blog',
+              // to: 'blog',
+            // },
             {
               label: 'GitHub',
               href: 'https://github.com/cameronglegg/stirling_docs',
