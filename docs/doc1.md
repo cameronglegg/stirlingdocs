@@ -5,13 +5,8 @@ sidebar_label: Introduction
 slug: /
 ---
 
-<!-- This was commented out. :::important
+<!-- This is an MDX script that you add a highlight colour to text. Just add the "<Highlight>sample text</Highlight>" and set the Hex Value for your "color" inline, and voila! -->
 
-This is the Introduction
-
-::: -->
-
-<!--This is an MDX test -->
 export const Highlight = ({children, color}) => ( <span style={{
       backgroundColor: color,
       borderRadius: '2px',

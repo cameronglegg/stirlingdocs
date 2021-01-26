@@ -4,11 +4,17 @@ title: Standup Meetings
 ---
 
 ## What is a standup meeting
-A per project, 15 minute meeting to plan the next 24 hours. This meeting should not exceed the **9 person maximum.** Each person takes their turn answering the **three daily questions.**
+A per project, 15 minute meeting to plan the next 24 hours. Each person takes their turn answering the **three daily questions.**
 
 1. What did you do yesterday?
 2. What will you do today?
 3. Is there anything blocking your progress?
+
+:::important
+
+This meeting should not exceed the **9 person maximum.**
+
+:::
 
 
 ## Expectations
@@ -30,8 +36,11 @@ This gets the team on the same page. Individuals will discover:
 ## The role of the facilitator
 Each Standup should have a designated facilitator, this person can be a product owner, an individual contributor or the president of the company. Who ever it may be there job is to keep the meeting pithy and on track. A bad standup leads to cost overruns.
 
-## What is a sidebar?
+:::tip
+
 If a conversation is becoming too in depth, it risks putting the Stand up off track. These conversations can be "Side barred" for another meeting.
+
+:::
 
 ## Different types of Standups:
 
