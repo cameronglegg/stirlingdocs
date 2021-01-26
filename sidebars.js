@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Stirling: ['doc1', 'toollist',
+    Stirling: ['doc1',
     {
       Communication: ['doc3', 'externalcomm', 'terminology']
     },
@@ -13,7 +13,7 @@ module.exports = {
     {
       Install: ['installation', 'installation2']
     },
-  ],
+  'toollist'],
     Features: ['mdx', 'cheatsheet'],
   },
 };
