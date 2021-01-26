@@ -82,9 +82,9 @@ Here is our room:
 **REMEMBER**
 There are three measurements that are crtical for any location:
 
-* Height
-* Width
-* Depth
+* Height :heavy_check_mark:
+* Width :heavy_check_mark:
+* Depth :heavy_check_mark:
 
 After that you will always require some reference to another measured point. For instance:
 
@@ -102,4 +102,6 @@ Add Documentation about contacting General contractors about making changes to s
 ## Terminology
 
 ### AFF - "As finished Floor"
-> This is the height of something in relation to the finalized finished floor height.
+```html
+This is the <height> of something in relation to the finalized <finished floor height>.
+```

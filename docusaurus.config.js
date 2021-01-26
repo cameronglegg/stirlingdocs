@@ -23,11 +23,11 @@ module.exports = {
           position: 'left',
         },
         // Commented Out Blog {to: 'blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/cameronglegg/stirling_docs',
-          label: 'GitHub',
-          position: 'right',
-        },
+        // Commented Out the Top Github Link{
+          // href: 'https://github.com/cameronglegg/stirling_docs',
+          // label: 'GitHub',
+          // position: 'right',
+        // },
       ],
     },
     footer: {
@@ -83,6 +83,19 @@ module.exports = {
         },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} Stirling Woodworks Ltd. Built with Docusaurus.`,
+    },
+    // This is the Algolia Search Bar.
+    algolia: {
+      apiKey: 'YOUR_API_KEY',
+      indexName: 'YOUR_INDEX_NAME',
+
+      // Optional: see doc section bellow
+      contextualSearch: true,
+
+      // Optional: Algolia search parameters
+      searchParameters: {},
+
+      //... other Algolia params
     },
   },
   presets: [

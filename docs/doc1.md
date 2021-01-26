@@ -20,9 +20,11 @@ Here is a fun gif of a monkey!
 
 ![MonkeyGif](https://media.giphy.com/media/ySpxjJmsq9gsw/source.gif)
 
-**HA!** He *hates* laptops!
+:satisfied: **HA!** He *hates* laptops!
 
-Underneath is a preview of the kind of sweet .gifs you are going to find on this site.
+___
+
+Here is a preview of the kind of sweet .gifs you are going to find on this site.
 
 ![TeamsLocation](https://static.wixstatic.com/media/e64ace_beaecb4bbb7c49a3a2b0f87faee968b5~mv2.gif)
 

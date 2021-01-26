@@ -47,5 +47,7 @@ If a conversation is becoming too in depth, it risks putting the Stand up off tr
 ### 1.Round Robin
 One person answers the three questions, an then the next person in line answers and so on, untill everyone has contributed.
 
+:man: :speech_balloon: :heavy_minus_sign: :woman: :speech_balloon: :heavy_minus_sign: :man: :speech_balloon: :100:
+
 ### 2.Walking the board
 The team walks through all of the work items on a task board (Kanban Board/Planner) starting with the items that are closest to "Done". 
