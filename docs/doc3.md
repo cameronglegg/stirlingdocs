@@ -34,7 +34,7 @@ This gets the team on the same page. Individuals will discover:
 <!-- This should talk about scrum somehow but we are not there yet-->
 
 ## The role of the facilitator
-Each Standup should have a designated facilitator, this person can be a product owner, an individual contributor or the president of the company. Who ever it may be there job is to keep the meeting pithy and on track. A bad standup leads to cost overruns.
+Each Standup should have a designated facilitator, this person can be a product owner, an individual contributor or the president of the company. Who ever it may be, their job is to keep the meeting pithy and on track. A bad standup can lead to costly problems further down the road.
 
 :::tip
 
