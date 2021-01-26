@@ -46,7 +46,7 @@ module.exports = {
             },
             // Added New Style Guide in Footer
             {
-              label: 'Styel Guide',
+              label: 'Style Guide',
               to: 'docs/cheatsheet/',
             },
           ],
