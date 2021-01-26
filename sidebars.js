@@ -2,7 +2,10 @@ module.exports = {
   someSidebar: {
     Stirling: ['doc1', 'toollist',
     {
-      Planning: ['doc2', 'measureguide', 'doc3', 'digimark', 'externalcomm']
+      Communication: ['doc3', 'externalcomm', 'terminology']
+    },
+    {
+      Planning: ['doc2', 'measureguide', 'digimark']
     },
     {
       Delivery: ['delivery', 'delivery2']
@@ -10,7 +13,7 @@ module.exports = {
     {
       Install: ['installation', 'installation2']
     },
-  'terminology'],
+  ],
     Features: ['mdx', 'cheatsheet'],
   },
 };
