@@ -44,6 +44,11 @@ module.exports = {
               label: 'Site Measurements',
               to: 'docs/doc2/',
             },
+            // Added New Style Guide in Footer
+            {
+              label: 'Styel Guide',
+              to: 'docs/cheatsheet/',
+            },
           ],
         },
         {
