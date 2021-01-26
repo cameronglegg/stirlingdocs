@@ -5,7 +5,7 @@ module.exports = {
       Planning: ['doc2', 'doc3', 'digimark', 'externalcomm']
     },
     {
-      Delivery: ['delivery']
+      Delivery: ['delivery', 'delivery2']
     }
   ],
     Features: ['mdx', 'cheatsheet'],
