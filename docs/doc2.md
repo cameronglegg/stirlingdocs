@@ -23,16 +23,24 @@ Things Like:
 2. Tape Measure
 3. Laser Measuring Device
 
-   * This can either be your own personal laser measuring device or Stirling owns a Leica Laser that can be taken to site.
+:::note
+
+This can either be your own personal laser measuring device or Stirling owns a Leica Laser that can be taken to site.
+
+:::
 
 4. Lazer Level
 5. Pen or Pencil
 
-    * If you plan on creating digital markups pease see the Digital Markup <!--Add Link--> documentation.
+:::caution
+
+If you plan on creating digital markups pease see the [Digital Markup documentation.](digimark.md)
+
+::
 
 ## Who should carry out the Site Measurement?
 
-All site measurement should be carried out by the person creating the drawings. This means that the engineer creating the drawings will have to schedule a time to go through the site with either the site supervisor or the client. If you have questions or concerns regarding contacting external contact please see the External Contact Documentation. <!--Add Link-->
+All site measurement should be carried out by the person creating the drawings. This means that the engineer creating the drawings will have to schedule a time to go through the site with either the site supervisor or the client. If you have questions or concerns regarding contacting external contact please see the [External Contact documentation.](externalcomm.md)
 
 ## Dependancies
 
