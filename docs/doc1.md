@@ -11,7 +11,15 @@ This is the Introduction
 
 ::: -->
 
-Welcome to Stirling Docs! We are glad you found us.
+<!--This is an MDX test -->
+export const Highlight = ({children, color}) => ( <span style={{
+      backgroundColor: color,
+      borderRadius: '2px',
+      color: '#fff',
+      padding: '0.2rem',
+    }}>{children}</span> );
+
+Welcome to <Highlight color="#6B4B85">Stirling Docs!</Highlight> We are glad you found us.
 
 Here is a fun gif of a monkey!
 
