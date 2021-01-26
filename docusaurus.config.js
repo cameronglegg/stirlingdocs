@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Stirling Docs',
   tagline: 'The How and Why.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.stirlingwoodworks.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -24,7 +24,7 @@ module.exports = {
         },
         // Commented Out Blog {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/cameronglegg/stirling_docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -72,12 +72,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/cameronglegg/stirling_docs',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Stirling Woodworks Ltd. Built with Docusaurus.`,
     },
   },
   presets: [
