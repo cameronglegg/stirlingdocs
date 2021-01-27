@@ -8,6 +8,9 @@ module.exports = {
       Planning: ['doc2', 'measureguide', 'digimark']
     },
     {
+      Production: ['mixformula']
+    },
+    {
       Delivery: ['delivery', 'delivery2']
     },
     {

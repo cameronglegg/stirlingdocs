@@ -3,7 +3,11 @@ id: doc3
 title: Standup Meetings
 ---
 
-## What is a standup meeting
+## Why do we need standup meetings?
+
+As an organization we have many people working in different parts of the lower mainland. This distance creates a greater need for communication, these "Standup Meetings" will give everyone a chance to let the Team know what they are working on. These meetings are also a great opporunity to help eachother solve problems, we all have different experiences and tapping into that greater knowledge pool is the goal for these meetings.
+
+## What is a standup meeting?
 A per project, 15 minute meeting to plan the next 24 hours. Each person takes their turn answering the **three daily questions.**
 
 1. What did you do yesterday?
