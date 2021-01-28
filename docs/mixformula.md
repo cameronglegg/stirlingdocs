@@ -29,7 +29,7 @@ ___
 
 **Bernyl Unisurfacer Example**
 
-```python
+```python highlight-line="2"
 1 Liter:
 
 12% = 120 ml (Catalyst)
@@ -38,8 +38,11 @@ ___
 
 Total = 100%
 ```
+:::tip
 
 [**SDS Sheet**](https://www.acromapro.com/swaservice/hearsdata/HearsDocumentLookupAction/download/DF5350001/ACROMAPRO/SDS/2/CA)
+
+:::
 
  </TabItem>
  <TabItem value="milesi">
@@ -63,8 +66,11 @@ Miesli - Dead Flat Clear Example
 
 Total = 100%
 ```
+:::tip
 
 [**SDS Sheet**](https://www.acromapro.com/swaservice/hearsdata/HearsDocumentLookupAction/download/DF5350001/ACROMAPRO/SDS/2/CA)
+
+:::
 
  </TabItem>
  <TabItem value="mlkrystal">
@@ -89,7 +95,11 @@ ___
 Total = 100%
 ```
 
+:::tip
+
 [**SDS Sheet**](https://www.paintdocs.com/docs/webPDF.jsp?SITEID=MLC&doctype=SDS&prodno=035777773413&lang=2)
+
+:::
 
  </TabItem>
  <TabItem value="mlresist">
@@ -113,7 +123,12 @@ ___
 
 Total = 100%
 ```
+
+:::tip
+
 [**SDS Sheet**](https://www.paintdocs.com/docs/webPDF.jsp?SITEID=MLC&doctype=SDS&prodno=744815008652&lang=2)
+
+:::
 
 </TabItem>
  <TabItem value="matador">
@@ -137,7 +152,12 @@ ___
 
 Total = 100%
 ```
+
+:::tip
+
 [**SDS Sheet**](https://www.acromapro.com/swaservice/hearsdata/HearsDocumentLookupAction/download/DH5600012/ACROMAPRO/SDS/2/CA)
+
+:::
 
 </TabItem>
 </Tabs>

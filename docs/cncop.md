@@ -7,10 +7,13 @@ title: CNC Operator
 
 The role of the CNC Operator is to oversee one the most critical moments in the production process. Ensuring a smooth transition from digital to physical is the key productivity indicator for the CNC Operator. Nothing is more important then to keep the CNC Machine creating parts, not however, at the expense of accuracy.
 
-<div style={{ padding: '10px 10px', backgroundColor: '#6B4B85' }}>
-  <h2>Reports to?</h2>
-  <p>The CNC Operator reports to the **Shop Foreman**.</p>
-</div>
+:::important
+
+### Reports to?
+
+The CNC Operator reports to the **Shop Foreman**
+
+:::
 
 ## Expectations
 
