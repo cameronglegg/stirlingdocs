@@ -16,6 +16,9 @@ module.exports = {
     {
       Install: ['installation', 'installation2']
     },
+    {
+      Roles: ['cncop']
+    },
   'toollist'],
     Features: ['mdx', 'cheatsheet'],
   },

@@ -3,7 +3,20 @@ id: cncop
 title: CNC Operator
 ---
 
-## CNC
+## Role
+
+The role of the CNC Operator is to oversee one the most critical moments in the production process. Ensuring a smooth transition from digital to physical is the key productivity indicator for the CNC Operator. Nothing is more important then to keep the CNC Machine creating parts, not however, at the expense of accuracy.
+
+<div style={{ padding: '10px 10px', backgroundColor: '#6B4B85' }}>
+  <h2>Reports to?</h2>
+  <p>The CNC Operator reports to the **Shop Foreman**.</p>
+</div>
+
+## Expectations
+
+It is expected that the CNC Operator will know how to work with our proprietary Busellato Software. This includes understanding how to manipulate parts and nests. How to reset specific processes of the machine to continue it's expected function.
+
+The continued operation of the CNC Machine requires the constant consumption of materials. The Operator is expected to keep the flow of correct materails is always available. In the event that a meterial is understocked or out of stock, the Shop Foreman will be notified immediately so that a re-stock can tae place.
 
 1. Cut all nests that come down to me
 2. Create jigs when needed
