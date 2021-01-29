@@ -7,6 +7,16 @@ title: Introduction
 
 For reasons?
 
+## Expectations
+
+Outline expectations for each role.
+
+There are expecations that apply to every person in the company:
+
+* Be curteous
+* Be respectful
+
+
 :::caution
 
 ## Living Document
