@@ -17,7 +17,7 @@ The Purchaser reports to the **Project Manager**
 
 ## Expectations
 
-Is is Expected that the purchaser will
+It is expected that the purchaser will
 
 * Maintain Supplier lists
 * Maintain Pricing Information
@@ -57,10 +57,10 @@ Is is Expected that the purchaser will
 * Follow up with back ordered hardware and materials
 * Copy drawings
 
-## Stock Related
+### Stock Related
 * Check stock quantities weekly
 * Label stock room bins
 
 :::tip
-Material quantities should be coming from the Ofice staff not the Shop staff.
+Material quantities should be coming from the Office staff not the Shop staff.
 :::
