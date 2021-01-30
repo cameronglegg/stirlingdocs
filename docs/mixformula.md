@@ -29,7 +29,7 @@ ___
 
 **Bernyl Unisurfacer Example**
 
-```python highlight-line="2"
+```python {3-5}
 1 Liter:
 
 12% = 120 ml (Catalyst)

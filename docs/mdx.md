@@ -54,3 +54,150 @@ import { Message } from 'theme-ui'
 <Message>
   This is just a message for someone to read
 </Message>
+
+__
+
+## Badges
+
+<span class="badge badge--primary">Primary</span>
+<span class="badge badge--secondary">Secondary</span>
+<span class="badge badge--success">Success</span>
+<span class="badge badge--info">Info</span>
+<span class="badge badge--warning">Warning</span>
+<span class="badge badge--danger">Danger</span>
+
+___
+## Breadcrumbs
+
+<nav aria-label="breadcrumbs">
+  <ul class="breadcrumbs">
+    <li class="breadcrumbs__item">
+      <a class="breadcrumbs__link" href="#url">
+        Infima
+      </a>
+    </li>
+    <li class="breadcrumbs__item">
+      <a class="breadcrumbs__link" href="#url">
+        Docs
+      </a>
+    </li>
+    <li class="breadcrumbs__item">
+      <a class="breadcrumbs__link" href="#url">
+        Component
+      </a>
+    </li>
+    <li class="breadcrumbs__item breadcrumbs__item--active">
+      <a class="breadcrumbs__link" href="#url">
+        Breadcrumb
+      </a>
+    </li>
+  </ul>
+</nav>
+
+___
+## Cards
+
+<div class="card-demo">
+  <div class="card">
+    <div class="card__header">
+      <h3>Lorem Ipsum</h3>
+    </div>
+    <div class="card__body">
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua. Quis ipsum
+        suspendisse ultrices gravida.
+      </p>
+    </div>
+    <div class="card__footer">
+      <button class="button button--secondary button--block">See All</button>
+    </div>
+  </div>
+</div>
+
+### Card #2
+
+<div class="card-demo">
+  <div class="card">
+    <div class="card__image">
+      <img
+        src="https://images.unsplash.com/photo-1506624183912-c602f4a21ca7?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=800&amp;q=60"
+        alt="Image alt text"
+        title="Logo Title Text 1"
+      />
+    </div>
+    <div class="card__body">
+      <h4>Quaco Lighthouse</h4>
+      <small>
+        The Quaco Head Lighthouse is a well maintained lighthouse close to St.
+        Martins. It is a short, beautiful walk to the lighthouse along the
+        seashore.
+      </small>
+    </div>
+    <div class="card__footer">
+      <button class="button button--primary button--block">Visit</button>
+    </div>
+  </div>
+</div>
+
+___
+
+## Alerts
+
+<div class="alert alert--primary" role="alert">
+  <button aria-label="Close" class="close" type="button">
+    <span aria-hidden="true">×</span>
+  </button>
+  This is a <strong>primary</strong> alert. You should probably pay attention to
+  it.
+</div>
+
+
+<div class="alert alert--secondary" role="alert">
+  <button aria-label="Close" class="close" type="button">
+    <span aria-hidden="true">×</span>
+  </button>
+  This is a <strong>secondary</strong> alert. It&#x27;s not too important, you
+  may ignore it.
+</div>
+
+
+<div class="alert alert--success" role="alert">
+  <button aria-label="Close" class="close" type="button">
+    <span aria-hidden="true">×</span>
+  </button>
+  This is a <strong>success</strong> alert. Something good must have happened!
+</div>
+
+
+<div class="alert alert--info" role="alert">
+  <button aria-label="Close" class="close" type="button">
+    <span aria-hidden="true">×</span>
+  </button>
+  This is an <strong>info</strong> alert. For your information only.
+</div>
+
+
+<div class="alert alert--warning" role="alert">
+  <button aria-label="Close" class="close" type="button">
+    <span aria-hidden="true">×</span>
+  </button>
+  This is a <strong>warning</strong> alert. Be warned, you should pay attention!
+</div>
+
+
+<div class="alert alert--danger" role="alert">
+  <button aria-label="Close" class="close" type="button">
+    <span aria-hidden="true">×</span>
+  </button>
+  This is a <strong>danger</strong> alert. Something has gone wrong, please
+  investigate!
+</div>
+
+___
+
+## Shadows
+
+<div class="item shadow--lw">Low Elevation</div>
+<div class="item shadow--md">Medium Elevation</div>
+<div class="item shadow--tl">Tall Elevation</div>
