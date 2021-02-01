@@ -31,7 +31,13 @@ ___
 
 import { Progress } from 'theme-ui'
 
-<Progress max={1} value={1/2}>
+<Progress 
+  sx={{
+    color: 'DarkOrchid',
+  }}
+  max={1} 
+  value={1/2}
+  >
   75%
 </Progress>
 
@@ -42,6 +48,9 @@ ___
 import { Slider } from 'theme-ui'
 
 <Slider
+  sx={{
+    color: 'red',
+  }}
   defaultValue={50}
 />
 

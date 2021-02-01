@@ -1,3 +1,6 @@
+const remarkImages = require('remark-images');
+const rehypeTruncate = require('rehype-truncate');
+
 module.exports = {
   title: 'Stirling Docs',
   tagline: 'The How and Why.',
@@ -107,6 +110,8 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/cameronglegg/stirling_docs',
+          remarkPlugins: [remarkImages],
+          rehypePlugins: [rehypeTruncate],
         },
         blog: {
           showReadingTime: true,
