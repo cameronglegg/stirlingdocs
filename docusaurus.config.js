@@ -4,13 +4,13 @@ const rehypeTruncate = require('rehype-truncate');
 module.exports = {
   title: 'Stirling Docs',
   tagline: 'The How and Why.',
-  url: 'https://docs.stirlingwoodworks.com',
-  baseUrl: '/',
+  url: 'https://cameronglegg.github.io',
+  baseUrl: '/cameronglegg.github.io/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'cameron@stirlingwoodworks.com', // Usually your GitHub org/user name.
-  projectName: 'stirling_docs', // Usually your repo name.
+  projectName: 'cameronglegg.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'Stirling Docs',
