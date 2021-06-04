@@ -6,7 +6,7 @@ module.exports = {
     },
 
 'toollist'],
-    SOPs: ['jobdescription',
+    SOPs: ['sopintroduction',
       {
         Planning: ['doc2', 'measureguide', 'digimark']
       },
