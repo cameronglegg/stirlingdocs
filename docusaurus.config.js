@@ -5,7 +5,7 @@ module.exports = {
   title: 'Stirling Docs',
   tagline: 'The How and Why.',
   url: 'https://cameronglegg.github.io',
-  baseUrl: '/cameronglegg.github.io/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
