@@ -6,7 +6,7 @@ module.exports = {
     },
 
 'toollist'],
-    SOPs: [
+    SOPs: ['jobdescription',
       {
         Planning: ['doc2', 'measureguide', 'digimark']
       },
@@ -20,7 +20,7 @@ module.exports = {
         Install: ['installation', 'installation2']
       },
     ],
-    Roles: ['jobdescription', 'roles', 'cncop', 'leadhand', 'purchasing'],
+    Roles: ['roles', 'cncop', 'leadhand', 'purchasing'],
     Features: ['mdx', 'cheatsheet'],
   },
 };
