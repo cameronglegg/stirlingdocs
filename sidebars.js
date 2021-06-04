@@ -3,9 +3,10 @@ module.exports = {
     Stirling: ['doc1',
     {
       Communication: ['doc3', 'externalcomm', 'terminology']
-    }, 
-    'toollist'],
-    Standard Procedures: [
+    },
+
+'toollist'],
+    SOPs: [
       {
         Planning: ['doc2', 'measureguide', 'digimark']
       },
