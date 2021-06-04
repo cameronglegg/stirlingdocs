@@ -20,7 +20,7 @@ module.exports = {
       Roles: ['roles', 'cncop', 'purchasing']
     },
   'toollist'],
-    Roles: ['roles', 'cncop', 'purchasing']
+    Roles: ['roles', 'cncop', 'purchasing'],
     Features: ['mdx', 'cheatsheet'],
   },
 };
