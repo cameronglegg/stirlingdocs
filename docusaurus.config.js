@@ -80,7 +80,7 @@ module.exports = {
             // },
             {
               label: 'GitHub',
-              href: 'https://github.com/cameronglegg/stirling_docs',
+              href: 'https://github.com/cameronglegg/stirlingdocs',
             },
           ],
         },
