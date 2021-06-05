@@ -25,6 +25,11 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
+        {
+          to: 'sops/',
+          label: 'SOPs',
+          position: 'left',
+        },
         // Commented Out Blog {to: 'blog', label: 'Blog', position: 'left'},
         // Commented Out the Top Github Link{
           // href: 'https://github.com/cameronglegg/stirling_docs',
