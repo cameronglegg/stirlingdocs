@@ -12,7 +12,9 @@ module.exports = {
   organizationName: 'cameron@stirlingwoodworks.com', // Usually your GitHub org/user name.
   projectName: 'stirlingdocs', // Usually your repo name.
   themeConfig: {
+    hideableSidebar: true,
     navbar: {
+      hideOnScroll: true,
       title: 'Stirling Docs',
       logo: {
         alt: 'My Site Logo',
@@ -20,15 +22,22 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
+          type: 'doc',
           position: 'left',
+          docId: 'doc1',
+          label: 'Docs',
         },
         {
-          to: 'sops/',
-          label: 'SOPs',
+          type: 'doc',
           position: 'left',
+          docId: 'sopintroduction',
+          label: 'SOPs',
+        },
+        {
+          type: 'doc',
+          position: 'left',
+          docId: 'roles',
+          label: 'Roles',
         },
         // Commented Out Blog {to: 'blog', label: 'Blog', position: 'left'},
         // Commented Out the Top Github Link{
@@ -131,68 +140,3 @@ module.exports = {
     ],
   ],
 };
-
-/* This is commented out and related to adding the Navbar in.
-    navbar: {
-      hideOnScroll: true,
-      title: 'Docusaurus',
-      logo: {
-        alt: 'Docusaurus Logo',
-        src: 'img/docusaurus.svg',
-        srcDark: 'img/docusaurus_keytar.svg',
-      },
-      items: [
-        {
-          type: 'doc',
-          position: 'left',
-          docId: 'introduction',
-          label: 'Docs',
-        },
-        {
-          type: 'doc',
-          position: 'left',
-          docId: 'cli',
-          label: 'API',
-        },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {to: 'showcase', label: 'Showcase', position: 'left'},
-        {
-          to: '/community/support',
-          label: 'Community',
-          position: 'left',
-          activeBaseRegex: `/community/`,
-        },
-        // right
-        {
-          type: 'docsVersionDropdown',
-          position: 'right',
-          dropdownActiveClassDisabled: true,
-          dropdownItemsAfter: [
-            {
-              to: 'https://v1.docusaurus.io',
-              label: '1.x.x',
-            },
-            {
-              to: '/versions',
-              label: 'All versions',
-            },
-          ],
-        },
-        {
-          type: 'localeDropdown',
-          position: 'right',
-          dropdownItemsAfter: [
-            {
-              to: 'https://github.com/facebook/docusaurus/issues/3526',
-              label: 'Help Us Translate',
-            },
-          ],
-        },
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          position: 'right',
-          className: 'header-github-link',
-          'aria-label': 'GitHub repository',
-        },
-      ],
-*/
