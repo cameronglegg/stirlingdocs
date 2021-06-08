@@ -200,3 +200,15 @@ This is a caution
 This is a warning
 
 :::
+
+## Websafe Colours
+
+Here is a great site for [web safe colours](https://www.colorhexa.com/)
+
+## Gifs
+
+Here is the defacto [gif website](https://giphy.com/) happy giffing (that cannot be a word).
+
+## Emoji's
+
+Here is a complete list of all Markdown supported [emojis](https://gist.github.com/rxaviers/7360908) :flushed:

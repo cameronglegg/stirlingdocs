@@ -1,0 +1,128 @@
+---
+id: howtodocs
+title: How to Write Docs
+---
+## How do I write a document for display on the Documents Website?
+
+All of our docs are written in [Markdown](https://en.wikipedia.org/wiki/Markdown) which is a language that allows us to do cool stuff like this:
+
+:::warning Boxes are fun
+
+Sick Red box! Is that a gif of a **French Bulldog** walking a **pony**!?
+
+![ponygif](https://media.giphy.com/media/iOMKs7M612Ak1ZRAhc/giphy.gif)
+
+:::
+
+This and so much more.
+
+## What do I need to get started?
+
+First you need an IDE, I prefer [VSCode](https://code.visualstudio.com/download), but anything will work. Even your notepad app. Next you need to understand how to write our documentation.
+
+Each IDE platform will have some sort of markdown extensions that will allow for greater readability, more actionable debugging and previews of your Markdown code.
+
+### Document Layout
+
+All of our documents require a specific header:
+
+```c#
+---
+id: doc1
+title: Introduction
+---
+```
+
+This header **must be the first thing** at the top of the document.
+
+This lays out what the "id" of the document is, which is used by the site for routing purposes and the "title" which is displayed at the at the top of the document and in the sidebar.
+
+There are lots of other things that can be defined in this space, but these two must be present. You can copy and paste any code you need from the [git repo](https://github.com/cameronglegg/stirlingdocs).
+
+Now you write the information that you intended to, using all of the excellent capabilities of Markdown (and MDX). There are many examples in the docs that you can litteraly copy and paste, we also have a this great [cheat sheet](https://www.stirlingdocs.com/docs/cheatsheet).
+
+### Tips and Tricks
+
+A Tip I have come across while writing alot of these documents is to read through your headings, and make sure that **the headings are laid out in an sensible pattern**. 
+
+```python
+document
+├── 01-Concept A
+├── 02-Concept B
+│   ├── 01-Sub Concept B
+├── 03-Concept C
+│   ├── 01-First Part
+│   ├── 02-Second Part
+│   ├── 03-Third Part
+│   └── 04-End
+└── 04-Wrap Up
+```
+
+The site takes these headings and makes a **drop down linking each one for faster navigation**, if the headings help the end user move through the information in a more managable way, they will have a better opporunity to understand the information you are trying to pass on to them.
+
+:::important
+
+Something to keep in mind: Pop out boxes and insteresting MDX components can really help people grab onto the information that you really **really** want to impart.
+
+:::
+
+## I have written something, what do I do now?
+
+Ok great! Before you submit the document in question here are a couple of things to think about:
+
+import { Message } from 'theme-ui'
+
+<div class="item shadow--tl">
+  <Message
+    sx={{
+      bg: '#cc6699',
+    }}
+      >
+    Have I inlcuded the "id" and "title?
+  </Message>
+</div>
+<br/><br/>
+<div class="item shadow--tl">
+  <Message
+    sx={{
+      bg: '#cc6699',
+    }}
+      >
+    Does the information I need people to take away from this doc, jump off the page at them?
+  </Message>
+</div>
+<br/><br/>
+<div class="item shadow--tl">
+  <Message
+    sx={{
+      bg: '#cc6699',
+    }}
+      >
+    Does the information flow properly? Are there questions I have yet to answer?
+  </Message>
+</div>
+<br/><br/>
+<div class="item shadow--tl">
+  <Message
+    sx={{
+      bg: '#cc6699',
+    }}
+      >
+    Have I read over the document to check for spelling/grammer errors or conecptual mistakes? Is the document easy to read?
+  </Message>
+</div>
+<br/><br/>
+
+After you have answered these questions you can save your document and send it to cameron@stirlingwoodworks.com. He will perform some sort of magic trick:
+
+![magictrick](https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif)
+
+ and post them on the site.
+
+ ## Last Thought 
+
+ The final thing to keep in mind, now that you have created your document, is **what information am I trying to get across to the end user**?
+
+ These documents are meant to help people learn how to be productive, valauble members of Stirling Woodworks. Does your document ensure that the end user learns the information you are trying to impart as fast as possible?
+
+ If the answer is "No" then maybe go back and try and be more concise. **Or add more gifs/emojis, what do I know.** :stuck_out_tongue_winking_eye:
