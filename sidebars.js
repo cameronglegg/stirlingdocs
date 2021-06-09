@@ -47,7 +47,7 @@ module.exports = {
       type: 'category',
       label: 'Roles',
       collapsed: false,
-      items: ['cncop', 'leadhand', 'purchasing']
+      items: ['cncop', 'leadhand', 'benchman', 'purchasing']
     },
   ]
 };
