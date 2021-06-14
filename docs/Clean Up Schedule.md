@@ -1,0 +1,24 @@
+---
+id: Clean Up Schedule
+title: Clean Up Schedule
+---
+
+<span class="badge badge--primary">Clean Up Schedule</span>
+{/* Comments have to be under your JSX Componenets
+    Role Name Here ^^^^ */}
+<span class="badge badge--secondary">v1.0</span>
+{/* Document Verison Number Here. Use Minor versions for small changes */}
+<span class="badge badge--success">Shelby Glegg</span>
+{/* Your name goes here if you were the last Author to change this */}
+
+## Duties  
+
+1. Sweep staff room and washroom floor 
+2. pick up garbage and news papers from staff room and washroom 
+3. clean dishes and coffee pot 
+4. clean counters, sink and table with fantastic 
+5. make sure all chairs are back in the staff room after each break 
+6. empty garbage cans and reline with a garbage bag 
+7. clean out fridge 
+8. Put empty beer bottles in cabinet  
+    
