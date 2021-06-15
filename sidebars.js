@@ -9,6 +9,12 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Policies and Procedures',
+      collapsed: false,
+      items: ['policy', 'cleanupschedule'],
+    },
+    {
+      type: 'category',
       label: 'Features',
       collapsed: false,
       items: ['mdx', 'cheatsheet'],
@@ -45,9 +51,21 @@ module.exports = {
      'roles',
     {
       type: 'category',
-      label: 'Roles',
+      label: 'Office',
       collapsed: false,
-      items: ['cncop', 'leadhand', 'benchman', 'purchasing']
+      items: ['purchasing', 'manager']
+    },
+    {
+      type: 'category',
+      label: 'Shop',
+      collapsed: false,
+      items: ['cncop', 'leadhand', 'benchman', 'helper']
+    },
+    {
+      type: 'category',
+      label: 'On Site',
+      collapsed: false,
+      items: ['installer']
     },
   ]
 };

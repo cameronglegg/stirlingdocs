@@ -37,6 +37,22 @@ This header **must be the first thing** at the top of the document.
 
 This lays out what the "id" of the document is, which is used by the site for routing purposes and the "title" which is displayed at the at the top of the document and in the sidebar.
 
+:::tip
+
+We use [Flat Case](https://stackoverflow.com/questions/17326185/what-are-the-different-kinds-of-cases) for all of our "id"'s. **The title of your document should match the 'id' name.**
+
+*For example* 
+
+```JSX
+---
+id:thisdocumentisfulloftext
+title: This Document is Full of text.
+---
+```
+Would be saved as **thisdocumentisfulloftext.md** (or .mdx if you need MDX components). 
+
+:::
+
 There are lots of other things that can be defined in this space, but these two must be present. You can copy and paste any code you need from the [**git repo**](https://github.com/cameronglegg/stirlingdocs).
 
 Now you write the information that you intended to, using all of the excellent capabilities of Markdown (and MDX). There are many examples in the docs that you can litteraly copy and paste, we also have a this great [cheat sheet](https://www.stirlingdocs.com/docs/cheatsheet).
@@ -79,6 +95,16 @@ import { Message } from 'theme-ui'
     }}
       >
     Have I inlcuded the "id" and "title?
+  </Message>
+</div>
+<br/><br/>
+<div class="item shadow--tl">
+  <Message
+    sx={{
+      bg: '#cc6699',
+    }}
+      >
+    Does the title of my file match the "id" name? Is it <a href="https://stackoverflow.com/questions/17326185/what-are-the-different-kinds-of-cases">Flat Case</a>?
   </Message>
 </div>
 <br/><br/>
