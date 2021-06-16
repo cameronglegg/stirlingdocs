@@ -11,7 +11,7 @@ module.exports = {
       type: 'category',
       label: 'Policies and Procedures',
       collapsed: false,
-      items: ['policy', 'cleanupschedule'],
+      items: ['policy', 'cleanupschedule', 'emergencyprodeduresineventoffire'],
     },
     {
       type: 'category',
@@ -32,7 +32,7 @@ module.exports = {
       type: 'category',
       label: 'Production',
       collapsed: false,
-      items: ['mixformula', 'modernshaker']
+      items: ['mixformula', 'modernshaker', 'hingeboring', 'cabinetassembly']
     },
     {
       type: 'category',
