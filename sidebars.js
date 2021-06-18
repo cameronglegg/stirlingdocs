@@ -11,7 +11,7 @@ module.exports = {
       type: 'category',
       label: 'Policies and Procedures',
       collapsed: false,
-      items: ['policy', 'cleanupschedule', 'emergencyprodeduresineventoffire', 'lockooutprocedure'],
+      items: ['policy', 'cleanupschedule', 'emergencyprodeduresineventoffire', 'lockoutprocedure'],
     },
     {
       type: 'category',
@@ -25,31 +25,43 @@ module.exports = {
     {
       type: 'category',
       label: 'Planning',
-      collapsed: false,
+      collapsed: true,
       items: ['doc2', 'measureguide', 'digimark']
     },
     {
       type: 'category',
       label: 'Production',
-      collapsed: false,
-      items: ['mixformula', 'modernshaker', 'hingeboring', 'cabinetassembly', 'rawwoodsanding']
+      collapsed: true,
+      items: [
+        {
+          'Cabinet Assembley': [
+            'basecabinetassembley',
+            'installingdraweranddoorfaces',
+            'finishingassembley',
+          ],
+        },
+        'modernshaker',
+        'hingeboring',
+        'cabinetassembly',
+        'rawwoodsanding'
+      ]
     },
     {
       type: 'category',
       label: 'Finishing',
-      collapsed: false,
-      items: ['finishingwhitepainteddoors', 'finishingcleanup', 'sprayequipmentcleaning']
+      collapsed: true,
+      items: ['mixformula', 'finishingwhitepainteddoors', 'finishingcleanup', 'sprayequipmentcleaning']
     },
     {
       type: 'category',
       label: 'Delivery',
-      collapsed: false,
+      collapsed: true,
       items: ['delivery', 'delivery2']
     },
     {
       type: 'category',
       label: 'Install',
-      collapsed: false,
+      collapsed: true,
       items: ['installation', 'installation2']
     },
     ],

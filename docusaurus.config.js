@@ -123,7 +123,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/cameronglegg/stirling_docs',
+            'https://github.com/cameronglegg/stirlingdocs/tree/master',
           remarkPlugins: [remarkImages],
           rehypePlugins: [rehypeTruncate],
         },
@@ -131,7 +131,7 @@ module.exports = {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/cameronglegg/stirling_docs',
+            'https://github.com/cameronglegg/stirlingdocs',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
