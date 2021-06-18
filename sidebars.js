@@ -40,6 +40,11 @@ module.exports = {
             'finishingassembley',
           ],
         },
+        {
+          Sanding: [
+            'prepsurfaceprimer',
+          ],
+        },
         'modernshaker',
         'hingeboring',
         'cabinetassembly',
