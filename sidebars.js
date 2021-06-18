@@ -32,7 +32,7 @@ module.exports = {
       type: 'category',
       label: 'Production',
       collapsed: false,
-      items: ['mixformula', 'modernshaker', 'hingeboring', 'cabinetassembly']
+      items: ['basecabinetassembley', 'mixformula', 'modernshaker', 'hingeboring', 'cabinetassembly']
     },
     {
       type: 'category',
