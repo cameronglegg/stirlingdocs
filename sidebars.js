@@ -1,6 +1,6 @@
 module.exports = {
   docs: [
-    'doc1',
+    'doc1', 'toollist',
     {
       type: 'category',
       label: 'Communication',
@@ -11,7 +11,7 @@ module.exports = {
       type: 'category',
       label: 'Policies and Procedures',
       collapsed: false,
-      items: ['policy', 'cleanupschedule', 'emergencyprodeduresineventoffire'],
+      items: ['policy', 'cleanupschedule', 'emergencyprodeduresineventoffire', 'lockooutprocedure'],
     },
     {
       type: 'category',
@@ -19,7 +19,7 @@ module.exports = {
       collapsed: false,
       items: ['mdx', 'cheatsheet'],
     },
-    'toollist'],
+    ],
   sops: [
     'sopintroduction',
     {
@@ -32,7 +32,13 @@ module.exports = {
       type: 'category',
       label: 'Production',
       collapsed: false,
-      items: ['mixformula', 'modernshaker', 'hingeboring', 'cabinetassembly', 'finishingcleanup']
+      items: ['mixformula', 'modernshaker', 'hingeboring', 'cabinetassembly', 'rawwoodsanding']
+    },
+    {
+      type: 'category',
+      label: 'Finishing',
+      collapsed: false,
+      items: ['finishingwhitepainteddoors', 'finishingcleanup', 'sprayequipmentcleaning']
     },
     {
       type: 'category',
