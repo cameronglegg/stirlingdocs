@@ -61,7 +61,7 @@ module.exports = {
       type: 'category',
       label: 'Delivery',
       collapsed: true,
-      items: ['delivery', 'delivery2']
+      items: ['hardwaredeliverybox', 'delivery', 'delivery2']
     },
     {
       type: 'category',
