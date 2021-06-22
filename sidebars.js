@@ -69,6 +69,12 @@ module.exports = {
       collapsed: true,
       items: ['installation', 'installation2']
     },
+    {
+      type: 'category',
+      label: 'Short form',
+      collapsed: true,
+      items: ['primersandingtrunc']
+    },
     ],
   roles: [
      'roles',
