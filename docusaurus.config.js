@@ -103,8 +103,8 @@ module.exports = {
     },
     // This is the Algolia Search Bar.
     algolia: {
-      apiKey: '89f91ba142c995e886d2114cb9cfd0d5',
-      indexName: 'prod_DOCS',
+      apiKey: 'f744bc3693067211b93698623d172995',
+      indexName: 'test',
 
       // Optional: see doc section bellow
       contextualSearch: true,
