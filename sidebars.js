@@ -5,7 +5,7 @@ module.exports = {
       type: 'category',
       label: 'Communication',
       collapsed: false,
-      items: ['howtosubmitdoc', 'howtodocs','doc3', 'externalcomm', 'terminology'],
+      items: ['howtosubmitdoc', 'howtodocs', 'howtorunscraper','doc3', 'externalcomm', 'terminology'],
     },
     {
       type: 'category',
