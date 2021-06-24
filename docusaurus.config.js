@@ -113,6 +113,7 @@ module.exports = {
       searchParameters: {},
 
       //... other Algolia params
+      appId: 'stirlingdocs',
     },
   },
   presets: [
