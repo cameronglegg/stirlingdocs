@@ -103,7 +103,7 @@ module.exports = {
     },
     // This is the Algolia Search Bar.
     algolia: {
-      apiKey: '5d977018e6df6e64e12c06adff304ad8',
+      apiKey: 'f744bc3693067211b93698623d172995',
       indexName: 'test',
 
       // Optional: see doc section bellow
@@ -113,7 +113,6 @@ module.exports = {
       searchParameters: {},
 
       //... other Algolia params
-      appId: 'stirlingdocs',
     },
   },
   presets: [
