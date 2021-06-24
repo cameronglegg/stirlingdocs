@@ -23,7 +23,8 @@
     "rehype-truncate": "^1.2.2",
     "remark-images": "^2.0.0",
     "swizzle": "^1.1.0",
-    "theme-ui": "^0.3.5"
+    "theme-ui": "^0.3.5",
+    "yarn": "^1.22.10"
   },
   "browserslist": {
     "production": [
