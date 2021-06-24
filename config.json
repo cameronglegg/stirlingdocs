@@ -1,5 +1,5 @@
 {
-    "index_name": "dev_stirlingdocs",
+    "index_name": "test",
     "start_urls": [
       "https://www.stirlingdocs.com/"
     ],

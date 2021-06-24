@@ -1,5 +1,6 @@
 const remarkImages = require('remark-images');
 const rehypeTruncate = require('rehype-truncate');
+require('dotenv').config();
 
 module.exports = {
   title: 'Stirling Docs',
@@ -103,8 +104,8 @@ module.exports = {
     },
     // This is the Algolia Search Bar.
     algolia: {
-      apiKey: '89f91ba142c995e886d2114cb9cfd0d5',
-      indexName: 'prod_DOCS',
+      apiKey: process.env.API_KEY,
+      indexName: 'test',
 
       // Optional: see doc section bellow
       contextualSearch: true,
@@ -113,6 +114,7 @@ module.exports = {
       searchParameters: {},
 
       //... other Algolia params
+      appId: 'stirlingdocs',
     },
   },
   presets: [
