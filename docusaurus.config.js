@@ -105,6 +105,7 @@ module.exports = {
     algolia: {
       apiKey: 'f744bc3693067211b93698623d172995',
       indexName: 'test',
+      appId: 'A371I1W7P6',
 
       // Optional: see doc section bellow
       contextualSearch: true,
@@ -113,7 +114,6 @@ module.exports = {
       searchParameters: {},
 
       //... other Algolia params
-      appId: 'stirlingdocs',
     },
   },
   presets: [
