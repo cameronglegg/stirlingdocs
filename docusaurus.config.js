@@ -125,6 +125,8 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/cameronglegg/stirlingdocs/tree/master',
+          showLastUpdateAuthor: true,
+          showLastUpdateTime: true,
           remarkPlugins: [remarkImages],
           rehypePlugins: [rehypeTruncate],
         },
