@@ -46,8 +46,6 @@ module.exports = {
           ],
         },
         'sop/modernshaker',
-        'sop/hingeboring',
-        'sop/cabinetassembly',
         'sop/rawwoodsanding'
       ]
     },
