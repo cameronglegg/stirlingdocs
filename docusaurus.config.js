@@ -30,13 +30,13 @@ module.exports = {
         {
           type: 'doc',
           position: 'left',
-          docId: 'sopintroduction',
+          docId: 'sop/sopintroduction',
           label: 'SOPs',
         },
         {
           type: 'doc',
           position: 'left',
-          docId: 'roles',
+          docId: 'roles/roles',
           label: 'Roles',
         },
         // Commented Out Blog {to: 'blog', label: 'Blog', position: 'left'},
@@ -59,7 +59,7 @@ module.exports = {
             },
             {
               label: 'Site Measurements',
-              to: 'docs/doc2/',
+              to: 'docs/sop/doc2/',
             },
             // Added New Style Guide in Footer
             {
