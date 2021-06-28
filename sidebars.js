@@ -5,13 +5,34 @@ module.exports = {
       type: 'category',
       label: 'Communication',
       collapsed: false,
-      items: ['howtosubmitdoc', 'howtodocs', 'howtorunscraper','standupmeetings', 'externalcomm', 'terminology'],
+      items: [
+        'howtosubmitdoc',
+        'howtodocs',
+        'howtorunscraper',
+        'standupmeetings',
+        'externalcomm',
+        'culture',
+        'terminology'
+      ],
     },
     {
       type: 'category',
       label: 'Policies and Procedures',
       collapsed: false,
-      items: ['policy', 'cleanupschedule', 'emergencyprodeduresineventoffire', 'lockoutprocedure'],
+      items: [
+        'policy',
+        'cleanupschedule',
+        'emergencyprodeduresineventoffire',
+        'lockoutprocedure',
+        'firefighting',
+        'firesafetyduties',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Apprenticeship',
+      collapsed: false,
+      items: ['apprentice'],
     },
     {
       type: 'category',
@@ -38,6 +59,7 @@ module.exports = {
             'sop/basecabinetassembley',
             'sop/installingdraweranddoorfaces',
             'sop/finishingassembley',
+            'sop/raisedpaneldoors',
           ],
         },
         {
@@ -54,10 +76,12 @@ module.exports = {
       label: 'Finishing',
       collapsed: true,
       items: [
+        'sop/sitedamagerefinishing',
         'sop/mixformula',
         'sop/finishingwhitepainteddoors',
         'sop/finishingcleanup',
-        'sop/sprayequipmentcleaning'
+        'sop/sprayequipmentcleaning',
+        'sop/woodfinishing',
       ]
     },
     {
