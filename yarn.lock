@@ -1160,10 +1160,10 @@
     "@docsearch/css" "3.0.0-alpha.36"
     "algoliasearch" "^4.0.0"
 
-"@docusaurus/core@2.0.0-beta.2":
-  "integrity" "sha512-i0jwYyTFkWUhnN5/eky7fkt7reIvNFH5iOyltXyCxn/DrKCGRqC63g3IbFhvLULl007JKp3vBXvwcNK3IpH8Yw=="
-  "resolved" "https://registry.npmjs.org/@docusaurus/core/-/core-2.0.0-beta.2.tgz"
-  "version" "2.0.0-beta.2"
+"@docusaurus/core@2.0.0-beta.3":
+  "integrity" "sha512-vzKmQsvOCte9odf0ZRU2h5UzdI1km5D0NU3Ee6xn06VydYZ169B1IF5KV1LWHSYklnsEmzizJ/jeopFCry0cGg=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/core/-/core-2.0.0-beta.3.tgz"
+  "version" "2.0.0-beta.3"
   dependencies:
     "@babel/core" "^7.12.16"
     "@babel/generator" "^7.12.15"
@@ -1175,12 +1175,12 @@
     "@babel/runtime" "^7.12.5"
     "@babel/runtime-corejs3" "^7.12.13"
     "@babel/traverse" "^7.12.13"
-    "@docusaurus/cssnano-preset" "2.0.0-beta.2"
+    "@docusaurus/cssnano-preset" "2.0.0-beta.3"
     "@docusaurus/react-loadable" "5.5.0"
-    "@docusaurus/types" "2.0.0-beta.2"
-    "@docusaurus/utils" "2.0.0-beta.2"
-    "@docusaurus/utils-common" "2.0.0-beta.2"
-    "@docusaurus/utils-validation" "2.0.0-beta.2"
+    "@docusaurus/types" "2.0.0-beta.3"
+    "@docusaurus/utils" "2.0.0-beta.3"
+    "@docusaurus/utils-common" "2.0.0-beta.3"
+    "@docusaurus/utils-validation" "2.0.0-beta.3"
     "@slorber/static-site-generator-webpack-plugin" "^4.0.0"
     "@svgr/webpack" "^5.5.0"
     "autoprefixer" "^10.2.5"
@@ -1326,10 +1326,10 @@
     "webpack-merge" "^5.7.3"
     "webpackbar" "^5.0.0-3"
 
-"@docusaurus/cssnano-preset@2.0.0-beta.2":
-  "integrity" "sha512-GNGYkePEYWJkxgFNUBYjEUySKm5FfBbYoQqGWn6KxDN34Qi7o+Wb37zPOiz2pNKBq+qCvXOfCIqblq7n0S/POA=="
-  "resolved" "https://registry.npmjs.org/@docusaurus/cssnano-preset/-/cssnano-preset-2.0.0-beta.2.tgz"
-  "version" "2.0.0-beta.2"
+"@docusaurus/cssnano-preset@2.0.0-beta.3":
+  "integrity" "sha512-k7EkNPluB+TV++oZB8Je4EQ6Xs6cR0SvgIU9vdXm00qyPCu38MMfRwSY4HnsVUV797T/fQUD91zkuwhyXCUGLA=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/cssnano-preset/-/cssnano-preset-2.0.0-beta.3.tgz"
+  "version" "2.0.0-beta.3"
   dependencies:
     "cssnano-preset-advanced" "^5.1.1"
     "postcss" "^8.2.15"
@@ -1344,15 +1344,15 @@
     "postcss" "^8.2.15"
     "postcss-sort-media-queries" "^3.10.11"
 
-"@docusaurus/mdx-loader@2.0.0-beta.2":
-  "integrity" "sha512-ZUqwQQY3P9/N2KBt28ADJgQWj98VqKG0+OEQJOiK6bd8uIngLrHvWE0WasBT3zgPK+ljhdRMaQ7TWt1Doot+ZA=="
-  "resolved" "https://registry.npmjs.org/@docusaurus/mdx-loader/-/mdx-loader-2.0.0-beta.2.tgz"
-  "version" "2.0.0-beta.2"
+"@docusaurus/mdx-loader@2.0.0-beta.3":
+  "integrity" "sha512-xH6zjNokZD2D7Y+Af3gMO692lwfw5N3NzxuLqMF3D0HPHOLrokDeIeVPeY/EBJBxZiXgqWGZ/ESewNDU1ZUfRQ=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/mdx-loader/-/mdx-loader-2.0.0-beta.3.tgz"
+  "version" "2.0.0-beta.3"
   dependencies:
     "@babel/parser" "^7.12.16"
     "@babel/traverse" "^7.12.13"
-    "@docusaurus/core" "2.0.0-beta.2"
-    "@docusaurus/utils" "2.0.0-beta.2"
+    "@docusaurus/core" "2.0.0-beta.3"
+    "@docusaurus/utils" "2.0.0-beta.3"
     "@mdx-js/mdx" "^1.6.21"
     "@mdx-js/react" "^1.6.21"
     "escape-html" "^1.0.3"
@@ -1390,16 +1390,16 @@
     "url-loader" "^4.1.1"
     "webpack" "^5.37.0"
 
-"@docusaurus/plugin-content-blog@2.0.0-beta.2":
-  "integrity" "sha512-I4q8zwL2GpfBxebDWoKWBrEtV2oiOkrc8cP5JORw5HKKB9zOz99UcggnbanllkCtmj+o4RiuhCQ0vHPFB5ts3Q=="
-  "resolved" "https://registry.npmjs.org/@docusaurus/plugin-content-blog/-/plugin-content-blog-2.0.0-beta.2.tgz"
-  "version" "2.0.0-beta.2"
+"@docusaurus/plugin-content-blog@2.0.0-beta.3":
+  "integrity" "sha512-QynxHVzS3jItnDbmu9wkASyMxrduauqONVqYHrL4x2pC4kzSTIrcDnOK1JXUJAuDg9XY66ISWQ8dN7YZOpU+4Q=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/plugin-content-blog/-/plugin-content-blog-2.0.0-beta.3.tgz"
+  "version" "2.0.0-beta.3"
   dependencies:
-    "@docusaurus/core" "2.0.0-beta.2"
-    "@docusaurus/mdx-loader" "2.0.0-beta.2"
-    "@docusaurus/types" "2.0.0-beta.2"
-    "@docusaurus/utils" "2.0.0-beta.2"
-    "@docusaurus/utils-validation" "2.0.0-beta.2"
+    "@docusaurus/core" "2.0.0-beta.3"
+    "@docusaurus/mdx-loader" "2.0.0-beta.3"
+    "@docusaurus/types" "2.0.0-beta.3"
+    "@docusaurus/utils" "2.0.0-beta.3"
+    "@docusaurus/utils-validation" "2.0.0-beta.3"
     "chalk" "^4.1.1"
     "escape-string-regexp" "^4.0.0"
     "feed" "^4.2.2"
@@ -1433,16 +1433,16 @@
     "tslib" "^2.2.0"
     "webpack" "^5.37.0"
 
-"@docusaurus/plugin-content-docs@2.0.0-beta.2":
-  "integrity" "sha512-lx7jC+DqMMio0Hhq3DNNGZKNUAD5n5Sc0T1m5x67iXoRJPwOEmKa+8fEhGV4tmXpTy7EmULpAnS+OxlJDOPhxg=="
-  "resolved" "https://registry.npmjs.org/@docusaurus/plugin-content-docs/-/plugin-content-docs-2.0.0-beta.2.tgz"
-  "version" "2.0.0-beta.2"
+"@docusaurus/plugin-content-docs@2.0.0-beta.3":
+  "integrity" "sha512-lB9UjDyFtq89tpyif+JDIJ/gtwtSTEwOBNTLAzOsg4ZIfNLfyifrWN4ci0TkZV0xShWUHqGp36/5XTpHRn1jJQ=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/plugin-content-docs/-/plugin-content-docs-2.0.0-beta.3.tgz"
+  "version" "2.0.0-beta.3"
   dependencies:
-    "@docusaurus/core" "2.0.0-beta.2"
-    "@docusaurus/mdx-loader" "2.0.0-beta.2"
-    "@docusaurus/types" "2.0.0-beta.2"
-    "@docusaurus/utils" "2.0.0-beta.2"
-    "@docusaurus/utils-validation" "2.0.0-beta.2"
+    "@docusaurus/core" "2.0.0-beta.3"
+    "@docusaurus/mdx-loader" "2.0.0-beta.3"
+    "@docusaurus/types" "2.0.0-beta.3"
+    "@docusaurus/utils" "2.0.0-beta.3"
+    "@docusaurus/utils-validation" "2.0.0-beta.3"
     "chalk" "^4.1.1"
     "combine-promises" "^1.1.0"
     "escape-string-regexp" "^4.0.0"
@@ -1484,16 +1484,16 @@
     "utility-types" "^3.10.0"
     "webpack" "^5.37.0"
 
-"@docusaurus/plugin-content-pages@2.0.0-beta.2":
-  "integrity" "sha512-Hl8GG6PpAH4AV3i5QxmxggUet/ONl9E7FdfbJ/aKsjqziay2nW6LS66Ug9EchWlEoWKpmgTvRKRKhqAIJkBzXA=="
-  "resolved" "https://registry.npmjs.org/@docusaurus/plugin-content-pages/-/plugin-content-pages-2.0.0-beta.2.tgz"
-  "version" "2.0.0-beta.2"
+"@docusaurus/plugin-content-pages@2.0.0-beta.3":
+  "integrity" "sha512-lV6ZoSkkVwN10kQLE4sEAubaEnzXjKBQBhMCx49wkrvRwKzjBoRnfWV8qAswN1KU2YZZL1ixFpcr8+oXvhxkuA=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/plugin-content-pages/-/plugin-content-pages-2.0.0-beta.3.tgz"
+  "version" "2.0.0-beta.3"
   dependencies:
-    "@docusaurus/core" "2.0.0-beta.2"
-    "@docusaurus/mdx-loader" "2.0.0-beta.2"
-    "@docusaurus/types" "2.0.0-beta.2"
-    "@docusaurus/utils" "2.0.0-beta.2"
-    "@docusaurus/utils-validation" "2.0.0-beta.2"
+    "@docusaurus/core" "2.0.0-beta.3"
+    "@docusaurus/mdx-loader" "2.0.0-beta.3"
+    "@docusaurus/types" "2.0.0-beta.3"
+    "@docusaurus/utils" "2.0.0-beta.3"
+    "@docusaurus/utils-validation" "2.0.0-beta.3"
     "globby" "^11.0.2"
     "lodash" "^4.17.20"
     "minimatch" "^3.0.4"
@@ -1520,60 +1520,60 @@
     "tslib" "^2.1.0"
     "webpack" "^5.28.0"
 
-"@docusaurus/plugin-debug@2.0.0-beta.2":
-  "integrity" "sha512-Lej0Smd6wznFVOmMDQ5SU/cwOYgns63wKC6gRFBWJpZPYhmFsMOSbHTMVkAFJ5cdXeyomx51MkIH43aBytIqXQ=="
-  "resolved" "https://registry.npmjs.org/@docusaurus/plugin-debug/-/plugin-debug-2.0.0-beta.2.tgz"
-  "version" "2.0.0-beta.2"
+"@docusaurus/plugin-debug@2.0.0-beta.3":
+  "integrity" "sha512-EeHUcCPsr9S1tsyRo42SnhrCCOlcvkcA8CR4pOofiJkG1gJ8IwhY9fNOLJM7dYs0bMtViiqXy5fD2jUib4G1jw=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/plugin-debug/-/plugin-debug-2.0.0-beta.3.tgz"
+  "version" "2.0.0-beta.3"
   dependencies:
-    "@docusaurus/core" "2.0.0-beta.2"
-    "@docusaurus/types" "2.0.0-beta.2"
-    "@docusaurus/utils" "2.0.0-beta.2"
+    "@docusaurus/core" "2.0.0-beta.3"
+    "@docusaurus/types" "2.0.0-beta.3"
+    "@docusaurus/utils" "2.0.0-beta.3"
     "react-json-view" "^1.21.3"
     "tslib" "^2.1.0"
 
-"@docusaurus/plugin-google-analytics@2.0.0-beta.2":
-  "integrity" "sha512-hOnmhCoUn1wbMb6kS2HTmVFsMmx7VaAuH+OEJMX1mJ+bAlQg3Btoctvs1BivEl2WGVvV0M5zjHW1+zwZp/QFOw=="
-  "resolved" "https://registry.npmjs.org/@docusaurus/plugin-google-analytics/-/plugin-google-analytics-2.0.0-beta.2.tgz"
-  "version" "2.0.0-beta.2"
+"@docusaurus/plugin-google-analytics@2.0.0-beta.3":
+  "integrity" "sha512-e6tO1FCIdAqIjcLAUaHugz/dErAP/wx67WyN6bWSdAMJRobmav+TFesE2iVzzIMxuRB3pY0Y7TtLL5dF5xpIsg=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/plugin-google-analytics/-/plugin-google-analytics-2.0.0-beta.3.tgz"
+  "version" "2.0.0-beta.3"
   dependencies:
-    "@docusaurus/core" "2.0.0-beta.2"
+    "@docusaurus/core" "2.0.0-beta.3"
 
-"@docusaurus/plugin-google-gtag@2.0.0-beta.2":
-  "integrity" "sha512-9ugXaVZJF5YOWzKjLevXdSXjfEPndD1Qc46eJ0l43golLXXC+b0u0gdOMms9r+HCK6/OBqTbMKcejWIUBlx0wQ=="
-  "resolved" "https://registry.npmjs.org/@docusaurus/plugin-google-gtag/-/plugin-google-gtag-2.0.0-beta.2.tgz"
-  "version" "2.0.0-beta.2"
+"@docusaurus/plugin-google-gtag@2.0.0-beta.3":
+  "integrity" "sha512-p48CK7ZwThs9wc/UEv+zG3lZ/Eh4Rwg2c0MBBLYATGE+Wwh6HIyilhjQAj4dC6wf9iYvCZFXX2pNOr+cKKafIA=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/plugin-google-gtag/-/plugin-google-gtag-2.0.0-beta.3.tgz"
+  "version" "2.0.0-beta.3"
   dependencies:
-    "@docusaurus/core" "2.0.0-beta.2"
+    "@docusaurus/core" "2.0.0-beta.3"
 
-"@docusaurus/plugin-sitemap@2.0.0-beta.2":
-  "integrity" "sha512-tyoqZs52nVoAN7ZxJjGnpF6TUEVmXIpcGWfo0ehuTsNDs1f0XTOpex6Ue5ddXd2cEXht0HfWcL/Ta93R8BDBFw=="
-  "resolved" "https://registry.npmjs.org/@docusaurus/plugin-sitemap/-/plugin-sitemap-2.0.0-beta.2.tgz"
-  "version" "2.0.0-beta.2"
+"@docusaurus/plugin-sitemap@2.0.0-beta.3":
+  "integrity" "sha512-ilEJ3Xb8zbShjGhdRHGAm4OZ0bUwFxtMtcTyqLlGmk9r0U2h0CWcaS+geJfLwgUJkwgKZfGdDrmTpmf8oeGQvw=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/plugin-sitemap/-/plugin-sitemap-2.0.0-beta.3.tgz"
+  "version" "2.0.0-beta.3"
   dependencies:
-    "@docusaurus/core" "2.0.0-beta.2"
-    "@docusaurus/types" "2.0.0-beta.2"
-    "@docusaurus/utils" "2.0.0-beta.2"
-    "@docusaurus/utils-common" "2.0.0-beta.2"
-    "@docusaurus/utils-validation" "2.0.0-beta.2"
+    "@docusaurus/core" "2.0.0-beta.3"
+    "@docusaurus/types" "2.0.0-beta.3"
+    "@docusaurus/utils" "2.0.0-beta.3"
+    "@docusaurus/utils-common" "2.0.0-beta.3"
+    "@docusaurus/utils-validation" "2.0.0-beta.3"
     "fs-extra" "^10.0.0"
     "sitemap" "^7.0.0"
     "tslib" "^2.2.0"
 
-"@docusaurus/preset-classic@2.0.0-beta.2":
-  "integrity" "sha512-ZdnCubWLoXrHgneHLQNoecwG3Cr19VBEOFOOebvMRCjGCfwyfJ7smBdx0Igvl7t+r9cAAnQtshPv5k6b4QPFKQ=="
-  "resolved" "https://registry.npmjs.org/@docusaurus/preset-classic/-/preset-classic-2.0.0-beta.2.tgz"
-  "version" "2.0.0-beta.2"
+"@docusaurus/preset-classic@2.0.0-beta.3":
+  "integrity" "sha512-32B/7X3H8XX5jBqg23veEqNJ0JtKCG0Va+7wTX9+B36tMyPnsq3H3m0m5XICfX/NGfPICfjw/oCN2CEAYFd47Q=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/preset-classic/-/preset-classic-2.0.0-beta.3.tgz"
+  "version" "2.0.0-beta.3"
   dependencies:
-    "@docusaurus/core" "2.0.0-beta.2"
-    "@docusaurus/plugin-content-blog" "2.0.0-beta.2"
-    "@docusaurus/plugin-content-docs" "2.0.0-beta.2"
-    "@docusaurus/plugin-content-pages" "2.0.0-beta.2"
-    "@docusaurus/plugin-debug" "2.0.0-beta.2"
-    "@docusaurus/plugin-google-analytics" "2.0.0-beta.2"
-    "@docusaurus/plugin-google-gtag" "2.0.0-beta.2"
-    "@docusaurus/plugin-sitemap" "2.0.0-beta.2"
-    "@docusaurus/theme-classic" "2.0.0-beta.2"
-    "@docusaurus/theme-search-algolia" "2.0.0-beta.2"
+    "@docusaurus/core" "2.0.0-beta.3"
+    "@docusaurus/plugin-content-blog" "2.0.0-beta.3"
+    "@docusaurus/plugin-content-docs" "2.0.0-beta.3"
+    "@docusaurus/plugin-content-pages" "2.0.0-beta.3"
+    "@docusaurus/plugin-debug" "2.0.0-beta.3"
+    "@docusaurus/plugin-google-analytics" "2.0.0-beta.3"
+    "@docusaurus/plugin-google-gtag" "2.0.0-beta.3"
+    "@docusaurus/plugin-sitemap" "2.0.0-beta.3"
+    "@docusaurus/theme-classic" "2.0.0-beta.3"
+    "@docusaurus/theme-search-algolia" "2.0.0-beta.3"
 
 "@docusaurus/react-loadable@5.5.0":
   "integrity" "sha512-Ld/kwUE6yATIOTLq3JCsWiTa/drisajwKqBQ2Rw6IcT+sFsKfYek8F2jSH8f68AT73xX97UehduZeCSlnuCBIg=="
@@ -1582,20 +1582,20 @@
   dependencies:
     "prop-types" "^15.6.2"
 
-"@docusaurus/theme-classic@2.0.0-beta.2":
-  "integrity" "sha512-z6hJ3KyH+xmlAv5s+IgUek+eiWfkAwq2GTqCi9X6HdRmMSLxgmW7ikzK2fXVtk0VlhLxn/lBHds6Nvfo0YKCKg=="
-  "resolved" "https://registry.npmjs.org/@docusaurus/theme-classic/-/theme-classic-2.0.0-beta.2.tgz"
-  "version" "2.0.0-beta.2"
+"@docusaurus/theme-classic@2.0.0-beta.3":
+  "integrity" "sha512-d2I4r9FQ67hCTGq+fkz0tDNvpCLxm/HAtjuu+XsZkX6Snh50XpWYfwOD4w8oFbbup5Imli2q7Z8Q2+9izphizw=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/theme-classic/-/theme-classic-2.0.0-beta.3.tgz"
+  "version" "2.0.0-beta.3"
   dependencies:
-    "@docusaurus/core" "2.0.0-beta.2"
-    "@docusaurus/plugin-content-blog" "2.0.0-beta.2"
-    "@docusaurus/plugin-content-docs" "2.0.0-beta.2"
-    "@docusaurus/plugin-content-pages" "2.0.0-beta.2"
-    "@docusaurus/theme-common" "2.0.0-beta.2"
-    "@docusaurus/types" "2.0.0-beta.2"
-    "@docusaurus/utils" "2.0.0-beta.2"
-    "@docusaurus/utils-common" "2.0.0-beta.2"
-    "@docusaurus/utils-validation" "2.0.0-beta.2"
+    "@docusaurus/core" "2.0.0-beta.3"
+    "@docusaurus/plugin-content-blog" "2.0.0-beta.3"
+    "@docusaurus/plugin-content-docs" "2.0.0-beta.3"
+    "@docusaurus/plugin-content-pages" "2.0.0-beta.3"
+    "@docusaurus/theme-common" "2.0.0-beta.3"
+    "@docusaurus/types" "2.0.0-beta.3"
+    "@docusaurus/utils" "2.0.0-beta.3"
+    "@docusaurus/utils-common" "2.0.0-beta.3"
+    "@docusaurus/utils-validation" "2.0.0-beta.3"
     "@mdx-js/mdx" "^1.6.21"
     "@mdx-js/react" "^1.6.21"
     "chalk" "^4.1.1"
@@ -1613,16 +1613,16 @@
     "react-router-dom" "^5.2.0"
     "rtlcss" "^3.1.2"
 
-"@docusaurus/theme-common@2.0.0-beta.2":
-  "integrity" "sha512-4svDbPYpwFCb646rcayK029LANdnIHMhMFX1Out1EWcLmFFfAXY3YtWoX5iW4KEM9ScbxPisz0dKb2BVupJ6MQ=="
-  "resolved" "https://registry.npmjs.org/@docusaurus/theme-common/-/theme-common-2.0.0-beta.2.tgz"
-  "version" "2.0.0-beta.2"
+"@docusaurus/theme-common@2.0.0-beta.3":
+  "integrity" "sha512-XuiqpfQyOWGniN7d8uMfUQ3OmCc70u+O0ObPUONj7gFglCzwu33Izx05gNrV9ekhnpQ1pkPcvGU7Soe9Hc5i6g=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/theme-common/-/theme-common-2.0.0-beta.3.tgz"
+  "version" "2.0.0-beta.3"
   dependencies:
-    "@docusaurus/core" "2.0.0-beta.2"
-    "@docusaurus/plugin-content-blog" "2.0.0-beta.2"
-    "@docusaurus/plugin-content-docs" "2.0.0-beta.2"
-    "@docusaurus/plugin-content-pages" "2.0.0-beta.2"
-    "@docusaurus/types" "2.0.0-beta.2"
+    "@docusaurus/core" "2.0.0-beta.3"
+    "@docusaurus/plugin-content-blog" "2.0.0-beta.3"
+    "@docusaurus/plugin-content-docs" "2.0.0-beta.3"
+    "@docusaurus/plugin-content-pages" "2.0.0-beta.3"
+    "@docusaurus/types" "2.0.0-beta.3"
     "tslib" "^2.1.0"
 
 "@docusaurus/theme-common@2.0.0-beta.ff31de0ff":
@@ -1637,7 +1637,7 @@
     "@docusaurus/types" "2.0.0-beta.ff31de0ff"
     "tslib" "^2.1.0"
 
-"@docusaurus/theme-search-algolia@^2.0.0-beta.2":
+"@docusaurus/theme-search-algolia@^2.0.0-beta.3":
   "integrity" "sha512-eTtObHogSlC+FGMhR7f5LAt3q3S8UCsJ3x0OMCnZM8AF6NS7aMJX26T4isyDv1j6xY3quUJiortFLyZ65Is78g=="
   "resolved" "https://registry.npmjs.org/@docusaurus/theme-search-algolia/-/theme-search-algolia-2.0.0-beta.ff31de0ff.tgz"
   "version" "2.0.0-beta.ff31de0ff"
@@ -1653,26 +1653,26 @@
     "eta" "^1.12.1"
     "lodash" "^4.17.20"
 
-"@docusaurus/theme-search-algolia@2.0.0-beta.2":
-  "integrity" "sha512-bVzZ2GF94BysasqW+PeggP9BBijUFTcnCeIp2BjOkaRnHW1YNfsfhdGArWS/2WKMWi4Y1vu79UDAKR7svCKNjg=="
-  "resolved" "https://registry.npmjs.org/@docusaurus/theme-search-algolia/-/theme-search-algolia-2.0.0-beta.2.tgz"
-  "version" "2.0.0-beta.2"
+"@docusaurus/theme-search-algolia@2.0.0-beta.3":
+  "integrity" "sha512-fxWxcXGmqjwuA7zYRAbwqSANx3PVVjYUehV9SI28u5qq8U2tSYflhd1nGogM6guiV+Er6u8gwO91PL6wg3/vBA=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/theme-search-algolia/-/theme-search-algolia-2.0.0-beta.3.tgz"
+  "version" "2.0.0-beta.3"
   dependencies:
     "@docsearch/react" "^3.0.0-alpha.36"
-    "@docusaurus/core" "2.0.0-beta.2"
-    "@docusaurus/theme-common" "2.0.0-beta.2"
-    "@docusaurus/utils" "2.0.0-beta.2"
-    "@docusaurus/utils-validation" "2.0.0-beta.2"
+    "@docusaurus/core" "2.0.0-beta.3"
+    "@docusaurus/theme-common" "2.0.0-beta.3"
+    "@docusaurus/utils" "2.0.0-beta.3"
+    "@docusaurus/utils-validation" "2.0.0-beta.3"
     "algoliasearch" "^4.8.4"
     "algoliasearch-helper" "^3.3.4"
     "clsx" "^1.1.1"
     "eta" "^1.12.1"
     "lodash" "^4.17.20"
 
-"@docusaurus/types@2.0.0-beta.2":
-  "integrity" "sha512-4lANZLq//nYukGH0TK/EVszq3SVvz2VADXXT5o39Hx1sghkVXhJBb0jX1GaSsn1aUUW6kJr9IbiaZdfifi2bNg=="
-  "resolved" "https://registry.npmjs.org/@docusaurus/types/-/types-2.0.0-beta.2.tgz"
-  "version" "2.0.0-beta.2"
+"@docusaurus/types@2.0.0-beta.3":
+  "integrity" "sha512-ivQ6L1ahju06ldTvFsZLQxcN6DP32iIB7DscxWVRqP0eyuyX2xAy+jrASqih3lB8lyw0JJaaDEeVE5fjroAQ/Q=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/types/-/types-2.0.0-beta.3.tgz"
+  "version" "2.0.0-beta.3"
   dependencies:
     "commander" "^5.1.0"
     "joi" "^17.4.0"
@@ -1691,20 +1691,20 @@
     "webpack" "^5.37.0"
     "webpack-merge" "^5.7.3"
 
-"@docusaurus/utils-common@2.0.0-beta.2":
-  "integrity" "sha512-R2D3wr49kc0TVWQBiKWhM32wsdZQj2ioYT6+eyyKW8f4yRP731TpO1k0pL/c9/UVA5i3Qtei+/3+guFcfxJ7VQ=="
-  "resolved" "https://registry.npmjs.org/@docusaurus/utils-common/-/utils-common-2.0.0-beta.2.tgz"
-  "version" "2.0.0-beta.2"
+"@docusaurus/utils-common@2.0.0-beta.3":
+  "integrity" "sha512-KJgDN4G2MzJcHy+OR2e/xgEwRy+vX26pzwtjPkRjNf24CPa0BwFbRmR5apbltCgTB10vT6xroStc8Quv/286Cg=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/utils-common/-/utils-common-2.0.0-beta.3.tgz"
+  "version" "2.0.0-beta.3"
   dependencies:
-    "@docusaurus/types" "2.0.0-beta.2"
+    "@docusaurus/types" "2.0.0-beta.3"
     "tslib" "^2.2.0"
 
-"@docusaurus/utils-validation@2.0.0-beta.2":
-  "integrity" "sha512-JMS74ldYsRxoaWXmHrOnvwSZqAMtddbuCd3wrGSWHbJNX9PI6nNqdXJDHjHTyN6kiykU7U4Hhh7D47ICdUSGEQ=="
-  "resolved" "https://registry.npmjs.org/@docusaurus/utils-validation/-/utils-validation-2.0.0-beta.2.tgz"
-  "version" "2.0.0-beta.2"
+"@docusaurus/utils-validation@2.0.0-beta.3":
+  "integrity" "sha512-jGX78NNrxDZFgDjLaa6wuJ/eKDoHdZFG2CVX3uCaIGe1x8eTMG2/e/39GzbZl+W7VHYpW0bzdf/5dFhaKLfQbQ=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/utils-validation/-/utils-validation-2.0.0-beta.3.tgz"
+  "version" "2.0.0-beta.3"
   dependencies:
-    "@docusaurus/utils" "2.0.0-beta.2"
+    "@docusaurus/utils" "2.0.0-beta.3"
     "chalk" "^4.1.1"
     "joi" "^17.4.0"
     "tslib" "^2.1.0"
@@ -1719,12 +1719,12 @@
     "joi" "^17.4.0"
     "tslib" "^2.1.0"
 
-"@docusaurus/utils@2.0.0-beta.2":
-  "integrity" "sha512-4nmfNZhl6zGMI+KJFEjLXWWyniMaESct5Oigqa55RbBXUtRI4isaOOMEjlfY+Q/jrJxQozRSuWKWM81VM3z6Yg=="
-  "resolved" "https://registry.npmjs.org/@docusaurus/utils/-/utils-2.0.0-beta.2.tgz"
-  "version" "2.0.0-beta.2"
+"@docusaurus/utils@2.0.0-beta.3":
+  "integrity" "sha512-DApc6xcb3CvvsBCfRU6Zk3KoZa4mZfCJA4XRv5zhlhaSb0GFuAo7KQ353RUu6d0eYYylY3GGRABXkxRE1SEClA=="
+  "resolved" "https://registry.npmjs.org/@docusaurus/utils/-/utils-2.0.0-beta.3.tgz"
+  "version" "2.0.0-beta.3"
   dependencies:
-    "@docusaurus/types" "2.0.0-beta.2"
+    "@docusaurus/types" "2.0.0-beta.3"
     "@types/github-slugger" "^1.3.0"
     "chalk" "^4.1.1"
     "escape-string-regexp" "^4.0.0"
@@ -2897,6 +2897,13 @@
   "resolved" "https://registry.npmjs.org/binary-extensions/-/binary-extensions-2.2.0.tgz"
   "version" "2.2.0"
 
+"bindings@^1.5.0":
+  "integrity" "sha512-p2q/t/mhvuOj/UeLlV6566GD/guowlr0hHxClI0W9m7MWYkL1F0hLo+0Aexs9HSPCtR1SXQ0TD3MMKrXZajbiQ=="
+  "resolved" "https://registry.npmjs.org/bindings/-/bindings-1.5.0.tgz"
+  "version" "1.5.0"
+  dependencies:
+    "file-uri-to-path" "1.0.0"
+
 "bluebird@^3.7.1":
   "integrity" "sha512-XpNj6GDQzdfW+r2Wnn7xiSAd7TM3jzkxGXBGTtWKuSXv1xUV+azxAm8jdWZN06QTQk+2N2XB9jRDkvbmQmcRtg=="
   "resolved" "https://registry.npmjs.org/bluebird/-/bluebird-3.7.2.tgz"
@@ -3259,15 +3266,6 @@
   "integrity" "sha512-y4coMcylgSCdVinjiDBuR8PCC2bLjyGTwEmPb9NHR/QaNU6EUOXcTY/s6VjGMD6ENSEaeQYHCY0GNGS5jfMwPw=="
   "resolved" "https://registry.npmjs.org/cli-boxes/-/cli-boxes-2.2.1.tgz"
   "version" "2.2.1"
-
-"clipboard@^2.0.0":
-  "integrity" "sha512-Y6WO0unAIQp5bLmk1zdThRhgJt/x3ks6f30s3oE3H1mgIEU33XyQjEf8gsf6DxC7NPX8Y1SsNWjUjL/ywLnnbQ=="
-  "resolved" "https://registry.npmjs.org/clipboard/-/clipboard-2.0.8.tgz"
-  "version" "2.0.8"
-  dependencies:
-    "good-listener" "^1.2.2"
-    "select" "^1.1.2"
-    "tiny-emitter" "^2.0.0"
 
 "cliui@^5.0.0":
   "integrity" "sha512-PYeGSEmmHM6zvoef2w8TPzlrnNpXIjTipYK780YswmIP9vjxmd6Y2a3CB2Ks6/AU8NHjZugXvo8w3oWM2qnwXA=="
@@ -3976,11 +3974,6 @@
     "rimraf" "^3.0.2"
     "slash" "^3.0.0"
 
-"delegate@^3.1.2":
-  "integrity" "sha512-IofjkYBZaZivn0V8nnsMJGBr4jVLxHDheKSW88PyxS5QC4Vo9ZbZVvhzlSxY87fVq3STR6r+4cGepyHkcWOQSw=="
-  "resolved" "https://registry.npmjs.org/delegate/-/delegate-3.2.0.tgz"
-  "version" "3.2.0"
-
 "depd@~1.1.2":
   "integrity" "sha1-m81S4UwJd2PnSbJ0xDRu0uVgtak="
   "resolved" "https://registry.npmjs.org/depd/-/depd-1.1.2.tgz"
@@ -4586,6 +4579,11 @@
     "loader-utils" "^2.0.0"
     "schema-utils" "^3.0.0"
 
+"file-uri-to-path@1.0.0":
+  "integrity" "sha512-0Zt+s3L7Vf1biwWZ29aARiVYLx7iMGnEUl9x33fbB/j3jR81u/O2LbqK+Bm1CDSNDKVtJ/YjwY7TUd5SkeLQLw=="
+  "resolved" "https://registry.npmjs.org/file-uri-to-path/-/file-uri-to-path-1.0.0.tgz"
+  "version" "1.0.0"
+
 "filesize@6.1.0":
   "integrity" "sha512-LpCHtPQ3sFx67z+uh2HnSyWSLLu5Jxo21795uRDuar/EOuYWXib5EmPaGIBuSnRqH2IODiKA2k5re/K9OnN/Yg=="
   "resolved" "https://registry.npmjs.org/filesize/-/filesize-6.1.0.tgz"
@@ -4724,6 +4722,19 @@
   "integrity" "sha1-FQStJSMVjKpA20onh8sBQRmU6k8="
   "resolved" "https://registry.npmjs.org/fs.realpath/-/fs.realpath-1.0.0.tgz"
   "version" "1.0.0"
+
+"fsevents@^1.2.7":
+  "integrity" "sha512-oWb1Z6mkHIskLzEJ/XWX0srkpkTQ7vaopMQkyaEIoq0fmtFVxOthb8cCxeT+p3ynTdkk/RZwbgG4brR5BeWECw=="
+  "resolved" "https://registry.npmjs.org/fsevents/-/fsevents-1.2.13.tgz"
+  "version" "1.2.13"
+  dependencies:
+    "bindings" "^1.5.0"
+    "nan" "^2.12.1"
+
+"fsevents@~2.3.2":
+  "integrity" "sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA=="
+  "resolved" "https://registry.npmjs.org/fsevents/-/fsevents-2.3.2.tgz"
+  "version" "2.3.2"
 
 "function-bind@^1.1.1":
   "integrity" "sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A=="
@@ -4893,13 +4904,6 @@
     "ignore" "^5.1.4"
     "merge2" "^1.3.0"
     "slash" "^3.0.0"
-
-"good-listener@^1.2.2":
-  "integrity" "sha1-1TswzfkxPf+33JoNR3CWqm0UXFA="
-  "resolved" "https://registry.npmjs.org/good-listener/-/good-listener-1.2.2.tgz"
-  "version" "1.2.2"
-  dependencies:
-    "delegate" "^3.1.2"
 
 "got@^9.6.0":
   "integrity" "sha512-R7eWptXuGYxwijs0eV+v3o6+XH1IqVK8dJOEecQfTmkncw9AV4dcw/Dhxi8MdlqPthxxpZyizMzyg8RTmEsG+Q=="
@@ -6428,6 +6432,11 @@
     "dns-packet" "^1.3.1"
     "thunky" "^1.0.2"
 
+"nan@^2.12.1":
+  "integrity" "sha512-M2ufzIiINKCuDfBSAUr1vWQ+vuVcA9kqx8JJUsbQi6yf1uGRyb7HfpdfUr5qLXf3B/t8dPvcjhKMmlfnP47EzQ=="
+  "resolved" "https://registry.npmjs.org/nan/-/nan-2.14.2.tgz"
+  "version" "2.14.2"
+
 "nanoid@^3.1.23":
   "integrity" "sha512-FiB0kzdP0FFVGDKlRLEQ1BgDzU87dy5NnzjeW9YZNt+/c3+q82EQDUwniSAUxp/F0gFNI1ZhKU1FqYsMuqZVnw=="
   "resolved" "https://registry.npmjs.org/nanoid/-/nanoid-3.1.23.tgz"
@@ -7292,11 +7301,9 @@
   "version" "1.2.1"
 
 "prismjs@^1.23.0":
-  "integrity" "sha512-c29LVsqOaLbBHuIbsTxaKENh1N2EQBOHaWv7gkHN4dgRbxSREqDnDbtFJYdpPauS4YCplMSNCABQ6Eeor69bAA=="
-  "resolved" "https://registry.npmjs.org/prismjs/-/prismjs-1.23.0.tgz"
-  "version" "1.23.0"
-  optionalDependencies:
-    "clipboard" "^2.0.0"
+  "integrity" "sha512-SqV5GRsNqnzCL8k5dfAjCNhUrF3pR0A9lTDSCUZeh/LIshheXJEaP0hwLz2t4XHivd2J/v2HR+gRnigzeKe3cQ=="
+  "resolved" "https://registry.npmjs.org/prismjs/-/prismjs-1.24.0.tgz"
+  "version" "1.24.0"
 
 "process-nextick-args@~2.0.0":
   "integrity" "sha512-3ouUOpQhtgrbOa17J7+uxOTpITYWaGP7/AhoR3+A+/1e9skrzelGi/dXzEYyvbxubEF6Wn2ypscTKiKJFFn1ag=="
@@ -8089,11 +8096,6 @@
   "resolved" "https://registry.npmjs.org/select-hose/-/select-hose-2.0.0.tgz"
   "version" "2.0.0"
 
-"select@^1.1.2":
-  "integrity" "sha1-DnNQrN7ICxEIUoeG7B1EGNEbOW0="
-  "resolved" "https://registry.npmjs.org/select/-/select-1.1.2.tgz"
-  "version" "1.1.2"
-
 "selfsigned@^1.10.8":
   "integrity" "sha512-aVmbPOfViZqOZPgRBT0+3u4yZFHpmnIghLMlAcb5/xhp5ZtB/RVnKhz5vl2M32CLXAqR4kha9zfhNg0Lf/sxKA=="
   "resolved" "https://registry.npmjs.org/selfsigned/-/selfsigned-1.10.11.tgz"
@@ -8777,11 +8779,6 @@
   "integrity" "sha1-QFQRqOfmM5/mTbmiNN4R3DHgK9Q="
   "resolved" "https://registry.npmjs.org/timsort/-/timsort-0.3.0.tgz"
   "version" "0.3.0"
-
-"tiny-emitter@^2.0.0":
-  "integrity" "sha512-NB6Dk1A9xgQPMoGqC5CVXn123gWyte215ONT5Pp5a0yt4nlEoO1ZWeCwpncaekPHXO60i47ihFnZPiRPjRMq4Q=="
-  "resolved" "https://registry.npmjs.org/tiny-emitter/-/tiny-emitter-2.1.0.tgz"
-  "version" "2.1.0"
 
 "tiny-invariant@^1.0.2":
   "integrity" "sha512-ytxQvrb1cPc9WBEI/HSeYYoGD0kWnGEOR8RY6KomWLBVhqz0RgTwVO9dLrGz7dC+nN9llyI7OKAgRq8Vq4ZBSw=="
