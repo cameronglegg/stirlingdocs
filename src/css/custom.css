@@ -63,3 +63,14 @@ html[data-theme='dark'] .DocSearch {
     var(--ifm-color-emphasis-100) 100%
   );
 }
+
+img[src$="#avatar"] {
+  display: block;
+  margin-left: auto;
+  border-radius: 50%;
+  max-width: 10%;
+}
+
+img::after[src$='#avatar'] {
+  content: "-Steve Glegg";
+}
