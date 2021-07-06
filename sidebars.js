@@ -4,11 +4,8 @@ module.exports = {
     {
       type: 'category',
       label: 'Communication',
-      collapsed: false,
+      collapsed: true,
       items: [
-        'howtosubmitdoc',
-        'howtodocs',
-        'howtorunscraper',
         'standupmeetings',
         'externalcomm',
         'culture',
@@ -18,7 +15,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Policies and Procedures',
-      collapsed: false,
+      collapsed: true,
       items: [
         'policy',
         'cleanupschedule',
@@ -31,13 +28,21 @@ module.exports = {
     {
       type: 'category',
       label: 'Apprenticeship',
-      collapsed: false,
+      collapsed: true,
       items: ['apprentice'],
     },
     {
       type: 'category',
+      label: 'Documentation Site',
+      collapsed: true,
+      items: [ 'howtosubmitdoc',
+      'howtodocs',
+      'howtorunscraper'],
+    },
+    {
+      type: 'category',
       label: 'Features',
-      collapsed: false,
+      collapsed: true,
       items: ['mdx', 'cheatsheet'],
     },
     ],
