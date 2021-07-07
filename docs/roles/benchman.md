@@ -3,7 +3,7 @@ id: roles_template
 title: Template
 ---
 
-<!-- Here is a great resource: https://resources.workable.com/job-descriptions/ -->
+<!-- Here is a great resource: https://resources.workable.com/cnc-operator-job-description -->
 
 ## Role
 
