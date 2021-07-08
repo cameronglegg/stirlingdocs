@@ -1,5 +1,5 @@
-import React from "react";
-import HorizontalTimeline from "react-horizontal-timeline";
+// import React from "react";
+// import HorizontalTimeline from "react-horizontal-timeline";
 
 const EXAMPLE = [
   {
