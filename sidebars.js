@@ -104,6 +104,7 @@ module.exports = {
       label: 'Install',
       collapsed: true,
       items: [
+        'sop/installmeeting',
         'sop/installation',
         'sop/installation2'
       ]
