@@ -21,6 +21,19 @@ On **smaller projects**, Pre-Installation meetings can be done over the phone or
 
 :::
 
+## What should be discussed?
+
+During this meeting please go over the following:
+
+* Use the **approved** drawings to go over each room and elevation. Make sure you understand the layout of the space.
+* Make sure you understand the intention of how the pieces are to be installed and in what order.
+* Ask for any documents you may need (Hardware, appliance spec sheets) printed to be added to the [**hardware delivery box**](../sop/hardwaredeliverybox.md).
+* Find out about any specific instructions about access to the site
+  * Lock box code
+  * Hotel Arrangements
+  * Any physical delivery pinch points.
+* Ask for any additional material that may be needed during installation.
+
 ## FAQ's
 
 Here is a list of **Frequently asked question's** to get the meeting started.
