@@ -5,7 +5,7 @@ title: Final Installation steps
 
 ## Shelves, and Doors, and Drawers! Oh my! :musical_score:
 
-Wipe down the inside for the cabinets to remove dust.
+22. Wipe down the inside for the cabinets to remove dust.
 
 :::tip
 
@@ -13,31 +13,37 @@ Check out our [Surface Cleaning Guidlines](https://d7edc572-4a5b-4324-956c-c94b0
 
 :::
 
-Install shelves make sure they are clean.
+23. Install shelves make sure they are clean.
 
-If needed DAP the fillers and silicone the counters. Do this after the cabinets have been cleaned and before the doors and drawers have been installed.
+24. If needed DAP the fillers and silicone the counters. Do this after the cabinets have been cleaned and before the doors and drawers have been installed.
 
-Install cabinet doors and drawers. Do this after the previous steps. It is much easier to see the screws that need to be capped and clean the cabinets with the doors and drawers off.
+25. Install cabinet doors and drawers. Do this after the previous steps. It is much easier to see the screws that need to be capped and clean the cabinets with the doors and drawers off.
+
+26. Install the cabinet pulls, ensure you have the correct size screws.
 
 :::warning
 
-Check all drawers and pull outs to make sure they work and do not hit any appliances or pulls. If there are any issues please contact the [**project manager**](mailto:cameron@stirlingwoodworks.com)
+27. Check all drawers and pull outs to make sure they work and do not hit any appliances or pulls. If there are any issues please contact the [**project manager**](mailto:cameron@stirlingwoodworks.com)
 
 :::
 
-Install the cabinet pulls, ensure you have the correct size screws.
+28.	Adjust doors and drawers. [Here is a video](https://youtu.be/Pp2-doQd5zU?t=7) for Legrabox drawer adjustment: Blum Has a great app with videos on how adjust there products. Its called Blum Easy Assembly:
 
-Adjust doors and drawers.
+[![Google Play](https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/20180131_Play_Store_Logo.png#appstore)](https://play.google.com/store/apps/details?id=com.blum.pai037)
 
-Install the caps on the drawers for Legrabox and Richelieu drawers. If they are wood drawer box's add screws to lock the front in place.
+29. Install the caps on the drawers for Legrabox and Richelieu drawers. If they are wood drawer box's add screws to lock the front in place.
 
-Install the cutlery trays.
+:::note
+Legrabox drawers require a #20 Torx screwdriver 
+:::
 
-Pack out tools.
+30. Install the cutlery trays.
 
-## Cleaning up is half the fun! :wink:
+31. Pack out tools.
 
-Vacuum the site and leave it clean. If materials or tools need to be removed, set them aside neatly and have them ready to be picked up. Take a picture of the items, post on teams and let the shop know it's ready to pick up.
+### Cleaning up is half the fun! :wink:
+
+32. Vacuum the site and leave it clean. If materials or tools need to be removed, set them aside neatly and have them ready to be picked up. Take a picture of the items, post on teams and let the shop know it's ready to pick up.
 
 ___
 
