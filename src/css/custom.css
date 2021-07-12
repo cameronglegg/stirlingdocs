@@ -74,3 +74,10 @@ img[src$="#avatar"] {
 img::after[src$='#avatar'] {
   content: "-Steve Glegg";
 }
+
+img[src$="#appstore"] {
+  display: block;
+  margin-right: auto;
+  border-radius: 50%;
+  max-width: 10%;
+}
