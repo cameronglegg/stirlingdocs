@@ -67,7 +67,7 @@ If you are interested in reading more about each specific manufacturers fabricat
 
 ## Results
 
-![Modern Shaker Door](https://static.wixstatic.com/media/e64ace_e2f53724cae44a318a876b239fba9238~mv2.png)
+![Solid Surface Sink](https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png)
 
 :::note What about the Drain?
 
