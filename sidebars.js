@@ -68,6 +68,11 @@ module.exports = {
           ],
         },
         {
+          'Solid Surface': [
+            'sop/solidsurfacesink',
+          ]
+        },
+        {
           Sanding: [
             'sop/prepsurfaceprimer',
           ],
