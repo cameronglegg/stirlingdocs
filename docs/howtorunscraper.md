@@ -46,6 +46,8 @@ chocolatey install jq
 
 ## Run the docker container
 
+First, ensure that you are in the */stirlingdocs folder as this command will use the ["config.json"](https://github.com/cameronglegg/stirlingdocs/blob/ff1b75f606a780b97702a9f5432bca528f7b6396/config.json) file to create the indices.
+
 Now run this command:
 
 :::warning
