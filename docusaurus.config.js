@@ -39,6 +39,12 @@ module.exports = {
           docId: 'roles/roles',
           label: 'Roles',
         },
+        {
+          type: 'doc',
+          position: 'right',
+          docId: 'naaws/naaws',
+          label: 'NAAWS 4.0 Manual',
+        },
         // Commented Out Blog {to: 'blog', label: 'Blog', position: 'left'},
         // Commented Out the Top Github Link{
           // href: 'https://github.com/cameronglegg/stirling_docs',
