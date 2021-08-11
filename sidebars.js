@@ -9,6 +9,7 @@ module.exports = {
         'standupmeetings',
         'externalcomm',
         'culture',
+        'pdpolicy',
         'terminology'
       ],
     },
