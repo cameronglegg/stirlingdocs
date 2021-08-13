@@ -57,6 +57,12 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Engineering',
+      collapsed: true,
+      items: ['sop/electricalcode']
+    },
+    {
+      type: 'category',
       label: 'Production',
       collapsed: true,
       items: [
