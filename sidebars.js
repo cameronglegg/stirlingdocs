@@ -42,6 +42,14 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Worksafe BC',
+      collapsed: true,
+      items: [
+         'rackingdocs',
+      ],
+    },
+    {
+      type: 'category',
       label: 'Features',
       collapsed: true,
       items: ['mdx', 'cheatsheet'],
