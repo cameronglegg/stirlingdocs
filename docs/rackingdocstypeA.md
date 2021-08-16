@@ -1,25 +1,18 @@
 ---
-id: rackingdocs
-title: Racking Docs
+id: rackingdocstypeA
+title: Rack Type A
 ---
 
-## What is the load capacity of the racking?
+## What is the load capacity of this type of racking?
 
 ### Rack Type A
 
 All beams 1 1/2" x 4" x 14
 
-Capacity: 1200 pound average
-
-
-### Rack Type B
-
-All beams 1 1/2" x 4" x 14
-
-Capacity: 3000 pound average
+Capacity: **1200 pound average**
 
 ### NOTES:
-1. All frames 40"D c 18' high
+1. All frames 40" x 18' high
 2. All posts 3" x 2 1/2" x 14ft
 3. All base 4" x 4" x 10ft
 4. Anchor 2 1/2" x 3" embedment concrete wedge per base
