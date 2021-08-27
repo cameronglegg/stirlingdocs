@@ -22,3 +22,5 @@ title: Important Code Sections
   Workspaces along the counter top must be wired with 5-15R or 5-20R receptacles so that no point is more than 900mm *(35 3/8")* from a receptacle (this means that your first receptacle is <=900mm *(35 3/8")* from the end of the counter and each receptacle is a max of 1800mm *(70 3/4")* from the next receptacle).
 
   iv) islands or peninsular counters must have a receptacle installed on them if they measure 300mm x 600mm *(11 3/4" x 23 5/8")* or larger.
+
+[![PDF](https://static.wixstatic.com/media/e64ace_cfacaf98c6584a5084ffdd1574892e44~mv2.png)](https://e64ace98-5264-4db2-9ddf-3f222fdd5759.usrfiles.com/ugd/e64ace_9155d710f98041a3bc1bf2b7d1b5af1d.pdf)
