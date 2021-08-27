@@ -1,5 +1,5 @@
 ---
-id: sitemeasurements
+id: doc2
 title: Site Measurements
 ---
 
@@ -72,4 +72,5 @@ Here is an example of a few of those questions:
 There as so many variables that it would be impossible to cover them all here so use your judgement and try to ask as many questions as possible
 
 ::: Important 
-As an added layer of accuracy, take a video of the site using Microsoft Stream to refer back to later as needed. :::
+As an added layer of accuracy, take a video of the site using Microsoft Stream to refer back to later as needed. 
+:::
