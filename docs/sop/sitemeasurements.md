@@ -70,3 +70,6 @@ Here is an example of a few of those questions:
 * What is the casing thickness?
 
 There as so many variables that it would be impossible to cover them all here so use your judgement and try to ask as many questions as possible
+
+::: Important 
+As an added layer of accuracy, take a video of the site using Microsoft Stream to refer back to later as needed. :::
