@@ -3,27 +3,19 @@ id: cleanupschedule
 title: Clean Up Schedule
 ---
 
-<span class="badge badge--primary">Clean Up Schedule</span>
-{/* Comments have to be under your JSX Componenets
-    Role Name Here ^^^^ */}
-<span class="badge badge--secondary">v1.0</span>
-{/* Document Verison Number Here. Use Minor versions for small changes */}
-<span class="badge badge--success">Shelby Glegg</span>
-{/* Your name goes here if you were the last Author to change this */}
-
 ## Why do we clean?
 In order to be efficient in our jobs, we need to start with a clean work space. 
 Not only does this help reduce the chance of misplacing things we need, but it also ensures we have a safe working environment. 
 We are also using the time we clean to make sure all of the tools and machinery we use are in working order and have no maintence issues.
 
-Regular, thorough cleaning reduces downtime and increases our efficiency.
+Regular, thorough cleaning reduces downtime and increases our efficiency. Why? Well, funny you should ask....
 
-## When do we clean? Why?
+## When do we clean? Why do we clean?
 We get it, no enjoys cleaning, but we all know it's a necessary part of life. 
 
 That's why we don't leave cleaning until last thing on Friday. We make sure we clean up everything, every single morning. 
 
-Cleaning in the morning gives everyone the same opportunity to ensure their workspace is clean and their machinery and tools are where they need to be and functioning properly. 
+Cleaning in the morning gives everyone the same opportunity to ensure their workspace is clean and their machinery and tools are where they need to be and functioning properly. By starting the day with a clean work area, we give ourselves the best chance at success. 
 
 
 ## What do we clean?
