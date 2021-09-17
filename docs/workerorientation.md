@@ -3,9 +3,9 @@ id: workerorientation
 title: Worker Orientation
 ---
 
-# Topic 2 Summary of Rights  and Responsibilities for Health & Safety
+## Topic 2 Summary of Rights  and Responsibilities for Health & Safety
 
-## Responsibilities of Workers
+### Responsibilities of Workers
 
 * Take reasonable care to protect health and safety of themselves and others.
 * Carry out his/her work consistent with the established safe work procedures of the company, and the regulations of the Workers Compensation Board.
@@ -18,14 +18,14 @@ title: Worker Orientation
 * Cooperate with any joint health and safety representatives.
 * Understand the right to refuse unsafe work.
 
-## Responsibilities of Supervisors
+### Responsibilities of Supervisors
 
 * Ensure the general health and safety of all workers under their direct supervision.
 * Have full understanding of all WorkSafeBC health and safety regulations pertaining to their supervision duties
 * Make all workers under their supervision aware of all known or reasonably foreseeable health and safety hazards.
 * Cooperate with any joint health and safety representatives.
 
-## Responsibilities of Employers
+### Responsibilities of Employers
 
 * Ensure the health and safety of your workers on site.
 * Ensure that all workers are aware of health or safety hazards.
