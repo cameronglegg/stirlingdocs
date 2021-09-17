@@ -45,7 +45,8 @@ module.exports = {
       label: 'Worksafe BC',
       collapsed: true,
       items: [
-         'rackingdocstypeA',
+        'workerorientation', 
+        'rackingdocstypeA',
          'rackingdocstypeB',
       ],
     },
