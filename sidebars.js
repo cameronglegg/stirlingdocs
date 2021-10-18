@@ -150,7 +150,7 @@ module.exports = {
       type: 'category',
       label: 'Shop',
       collapsed: false,
-      items: ['roles/cncop', 'roles/leadhand', 'roles/benchman', 'roles/helper']
+      items: ['roles/cncop', 'roles/leadhand', 'roles/benchman', 'roles/deliveryhelper']
     },
     {
       type: 'category',
