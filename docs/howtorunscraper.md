@@ -48,6 +48,16 @@ chocolatey install jq
 
 First, ensure that you are in the */stirlingdocs folder as this command will use the ["config.json"](https://github.com/cameronglegg/stirlingdocs/blob/ff1b75f606a780b97702a9f5432bca528f7b6396/config.json) file to create the indices.
 
+You will also need a **.env** file. This file must contain:
+
+```
+ALGOLIA_API_KEY={Enter your API Key here} #If you don't have an API Key from Algolia please contact Cameron
+ALGOLIA_APP_ID=A371I1W7P6
+ALGOLIA_INDEX_NAME=test
+```
+
+The scrapper will use these credentials to access Algolia's API.
+
 Now run this command:
 
 :::warning
