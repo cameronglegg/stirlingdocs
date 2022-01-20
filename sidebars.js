@@ -77,6 +77,11 @@ module.exports = {
       collapsed: true,
       items: [
         {
+          'CNC Machine': [
+            'sop/cncpanelinspection',
+          ],
+        },
+        {
           'Cabinet Assembley': [
             'sop/basecabinetassembley',
             'sop/installingdraweranddoorfaces',
