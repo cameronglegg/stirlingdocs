@@ -54,6 +54,12 @@ Stand up all sheets needed to sequence match the exposed area. You may need a lo
 
 Then photograph the sequnce matched sheets and post them to the channel. If the sheets match well enough and both sides of the product pass an inspection, then you may cut them.
 
+:::important Photo Examples
+<img src="https://static.wixstatic.com/media/e64ace_991e0d8047fa4f8fb8edccb66d17a0db~mv2.png" alt="drawing" width="400"/>
+<img src="https://static.wixstatic.com/media/e64ace_7e4660a872044a74b6404adbf3189e19~mv2.png" alt="drawing" width="400"/>
+
+:::
+
 If other sheets are need for a proper match please let the office know, so they can order new sheets.
 
 ## Deficiencies
