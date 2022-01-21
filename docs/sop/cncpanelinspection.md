@@ -7,7 +7,7 @@ Check both sides of **"Exposed Material"**. No need to check **"Semi Exposed"**.
 :::
 
 
-# How to Inpect Panels before they are cut
+# How to Inspect Panels before they are cut
 
 This SOP is meant to outline the steps for inspecting sheets before or as they are being loaded on the deck of the CNC Machine. The purpose of this inspection is two fold:
 1. Identify issues with sheet goods before they are cut into parts
@@ -51,6 +51,16 @@ This distance is closer in **Premium Grade**. (24")
 ### Sequence Matched Sheets
 
 Stand up all sheets needed to sequence match the exposed area. You may need a lot of space for this, please feel free to move things in the shop to accomplish this.
+
+Then photograph the sequnce matched sheets and post them to the channel. If the sheets match well enough and both sides of the product pass an inspection, then you may cut them.
+
+:::important Photo Examples
+<img src="https://static.wixstatic.com/media/e64ace_991e0d8047fa4f8fb8edccb66d17a0db~mv2.png" alt="drawing" width="400"/>
+<img src="https://static.wixstatic.com/media/e64ace_7e4660a872044a74b6404adbf3189e19~mv2.png" alt="drawing" width="400"/>
+
+:::
+
+If other sheets are need for a proper match please let the office know, so they can order new sheets.
 
 ## Deficiencies
 
