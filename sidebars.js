@@ -97,6 +97,7 @@ module.exports = {
         {
           Sanding: [
             'sop/prepsurfaceprimer',
+            'sop/sandblastmirrorlight',
           ],
         },
         'sop/modernshaker',
