@@ -45,7 +45,7 @@ Take the drawings and tape them to wall in the areas the cabinets go. Try to put
 
 :::tip
 
-Use **Green** masking tape for finished walls. It has very little adhesive, so you have the least change of damaging someone elses work.
+Use **Green** masking tape for finished walls. It has very little adhesive, so you have the least chance of damaging someone elses work.
 
 :::
 
