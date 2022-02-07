@@ -3,14 +3,6 @@ id: finishingwhitepainteddoors
 title: Finishing Instructions for White Painted Doors
 ---
 
-<span class="badge badge--primary">Finishing Instructions for White Painted Doors</span>
-{/* Comments have to be under your JSX Componenets
-    Role Name Here ^^^^ */}
-<span class="badge badge--secondary">v1.0</span>
-{/* Document Verison Number Here. Use Minor versions for small changes */}
-<span class="badge badge--success">Shelby Glegg</span>
-{/* Your name goes here if you were the last Author to change this */}
-
 ## Finishing White Painted Doors
 
 :::raw wood doors must be sanded with 150 grit sand paper::: 

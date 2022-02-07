@@ -16,15 +16,13 @@ CABINET #
 MADE BY: "your signature"
 ```
 
-<!--Add Image url once we have one. Preferable hosted here in "static"-->
-![Image of Writing on back of cabinet](https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png)
+![Image of Writing on back of cabinet](https://static.wixstatic.com/media/e64ace_76a3ebabb860480285af7c0887262f7c~mv2.png)
 
 1. Lift onto floor (with help if needed)
 2. Slide cabinet into 3rd bay
 3. Place against the wall in the order on the drawings or on top of a cabinet of similar size and of the same room, if possible, to save floor space.
 
-<!--Add Image url once we have one. Preferable hosted here in "static"-->
-![Image of final location](https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png)
+![Image of final location](https://static.wixstatic.com/media/e64ace_50034f5ff1d34667918bb866ca5ef786~mv2.png)
 
 ## Finished
 

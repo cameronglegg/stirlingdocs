@@ -20,7 +20,4 @@ title: Fire Safety Duties
 3. Inspect the spray booth filter media on a weekly basis to ensure free exhaust from the                       booth. 
 
 ##	ALL PERSONNEL 
-Keep waste materials throughout the shop (cuttings, sawdust, etc.), in designated containers, and dispose of them in the bulk waste container, as required.  This is  necessary not only for fire safety but for general safety. Make sure that electrical appliances and tools are turned off or unplugged before you go home. Some items to be particularly aware of are the air compressor, coffee maker, irons, hot glue guns ect... 
-
- 
-
+Keep waste materials throughout the shop (cuttings, sawdust, etc.), in designated containers, and dispose of them in the bulk waste container, as required.  This is  necessary not only for fire safety but for general safety. Make sure that electrical appliances and tools are turned off or unplugged before you go home. Some items to be particularly aware of are the air compressor, coffee maker, irons, hot glue guns ect...

@@ -212,3 +212,47 @@ Here is the defacto [gif website](https://giphy.com/) happy giffing (that cannot
 ## Emoji's
 
 Here is a complete list of all Markdown supported [emojis](https://gist.github.com/rxaviers/7360908) :flushed:
+
+## Details
+
+<details>
+  <summary><code>Details</code> can be shown in a drop down like <b>this!</b></summary>
+
+```jsx
+<Tabs
+  defaultValue="apple"
+  values={[
+    {label: 'Apple 1', value: 'apple'},
+    {label: 'Orange 1', value: 'orange'},
+    {label: 'Banana 1', value: 'banana'},
+  ]}>
+  <TabItem value="apple" label="Apple 2">
+    This is an apple 🍎
+  </TabItem>
+  <TabItem value="orange" label="Orange 2">
+    This is an orange 🍊
+  </TabItem>
+  <TabItem value="banana" label="Banana 2" default>
+    This is a banana 🍌
+  </TabItem>
+</Tabs>
+```
+
+```mdx-code-block
+<BrowserWindow>
+  <Tabs
+    defaultValue="apple"
+    values={[
+      {label: 'Apple 1', value: 'apple'},
+      {label: 'Orange 1', value: 'orange'},
+      {label: 'Banana 1', value: 'banana'},
+    ]}>
+    <TabItem value="apple" label="Apple 2">This is an apple 🍎</TabItem>
+    <TabItem value="orange" label="Orange 2">This is an orange 🍊</TabItem>
+    <TabItem value="banana" label="Banana 2" default>This is a banana 🍌</TabItem>
+  </Tabs>
+</BrowserWindow>
+<br/>
+```
+
+</details>

@@ -3,14 +3,6 @@ id: benchman
 title: Benchman
 ---
 
-<span class="badge badge--primary">Benchman</span>
-{/* Comments have to be under your JSX Componenets
-    Role Name Here ^^^^ */}
-<span class="badge badge--secondary">v1.0</span>
-{/* Document Verison Number Here. Use Minor versions for small changes */}
-<span class="badge badge--success">Shelby Glegg</span>
-{/* Your name goes here if you were the last Author to change this */}
-
 ## Role  
 
 1. small table saw operator  

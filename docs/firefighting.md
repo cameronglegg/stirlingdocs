@@ -20,5 +20,4 @@ UNDER NO CIRCUMSTANCES SHOULD WATER BE USED ON A FLAMMABLE LIQUID OR ELECTRICAL 
 ### Container Fire
 It should be remembered that in the case of a **container fire** (say a five gallon pail) one of the most effective and safest extinguishers is a **lid**.
 In an emergency, the “lid” may in fact be a piece of plywood, particle board, or the original container lid.
-Anything which will provide a reasonably good seal to smother the fire. 
- 
+Anything which will provide a reasonably good seal to smother the fire.

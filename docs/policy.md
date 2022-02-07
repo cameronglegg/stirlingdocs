@@ -3,14 +3,6 @@ id: policy
 title: Policy
 ---
 
-<span class="badge badge--primary">Policy</span>
-{/* Comments have to be under your JSX Componenets
-    Role Name Here ^^^^ */}
-<span class="badge badge--secondary">v1.0</span>
-{/* Document Verison Number Here. Use Minor versions for small changes */}
-<span class="badge badge--success">Shelby Glegg</span>
-{/* Your name goes here if you were the last Author to change this */}
-
 ## Company Policy  
 No smoking in the building PERIOD. 
 
