@@ -22,7 +22,7 @@ Typically loads will shift from back to front this is because **braking force** 
    2. Table saw with a stand or workmate.
    3. Chop saw with a stand.
    4. Air Compressor
-   5. Extension Cord Fresh [screw box](../screwboxlist.md), make sure it has the screws as per the list.
+   5. Extension Cord Fresh screw box, make sure it has the screws as per the list.
 
 4. Contact the installer and ask if there is anything else they need before they leave.
 5. Once the cabinets are loaded ensure that everything is secure and ask [Dan](mailto:dan@stirlingwoodworks.com) to double check that its ready to go and that there are no last minute items that need to go on the truck  

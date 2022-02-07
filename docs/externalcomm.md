@@ -5,11 +5,11 @@ title: Communicating with Steve
 
 # What is the best methos to speak with Steve?
 
-These are many methods of communication available to you. Each has its advantages and disadvantages. Since [**Steve**](steve@stirlingwoodworks.com) is often driving :blue_car: some work better than others.
+These are many methods of communication available to you. Each has its advantages and disadvantages. Since [**Steve**](mailto:steve@stirlingwoodworks.com) is often driving :blue_car: some work better than others.
 
 :::caution We can all use this guide
 
-While this document mentions [**Steve**](steve@stirlingwoodworks.com) specifially, the same timelines are expected of all members of Stirling Woodworks.
+While this document mentions [**Steve**](mailto:steve@stirlingwoodworks.com) specifially, the same timelines are expected of all members of Stirling Woodworks.
 
 :::
 
