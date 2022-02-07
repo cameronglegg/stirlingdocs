@@ -3,14 +3,6 @@ id: sprayequipmentcleaning
 title: Spray Equipment Cleaning
 ---
 
-<span class="badge badge--primary">Spray Equipment Cleaning</span>
-{/* Comments have to be under your JSX Componenets
-    Role Name Here ^^^^ */}
-<span class="badge badge--secondary">v1.0</span>
-{/* Document Verison Number Here. Use Minor versions for small changes */}
-<span class="badge badge--success">Shelby Glegg</span>
-{/* Your name goes here if you were the last Author to change this */}
-
 ## Cleaning Procedure for Spray Equipment
 
 :::THERE MUST BE 2-5 GALLON PAILS OF FAST THINNER.  ONE PAIL “A” FOR DIRTY THINNER, ONE PAIL “B” FOR CLEAN THINNER, 1 QUART CAN “C” FOR CLEAN THINNER FOR TIPS.  CAN “A” SHOULD HAVE ABOUT 2 GALLONS OF THINNER AND CAN “B” ABOUT 1 GALLON. :::

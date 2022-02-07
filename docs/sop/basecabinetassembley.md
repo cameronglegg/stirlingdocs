@@ -67,7 +67,7 @@ You can find these screws, and any other screws you need in the top right drawer
 26.	Using the “Numax” modified stapler with 1” crown staples, staple 3 staples in 1 gable and then 2 staples into the bottom using the staplers provided stop as a guide.
 
 <!--Add Image url once we have one. Preferable hosted here in "static"-->
-![Image of Stapler](https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png)
+![Image of Stapler](https://static.wixstatic.com/media/e64ace_b039b5bdfd664dc59b68f281f61f99a6~mv2.png)
 
 27.	Check for square 
 28.	If square repeat stapling on the remaining sides

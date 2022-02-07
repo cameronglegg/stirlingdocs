@@ -3,15 +3,6 @@ id: screwboxlist
 title: Screw Box List
 ---
 
-<span class="badge badge--primary">Checklist</span>
-{/* Comments have to be under your JSX Componenets
-    Role Name Here ^^^^ */}
-<span class="badge badge--secondary">v1.0</span>
-{/* Document Verison Number Here. Use Minor versions for small changes */}
-<span class="badge badge--success">Shelby Glegg</span>
-{/* Your name goes here if you were the last Author to change this */}
-
-
 |  Description     |      Quantity    |  :heavy_check_mark:   |
 | ------------- | :-----------: | -----: |
 | 2 ½ “ NIB HEAD SCREWS  | 200 |  |

@@ -63,7 +63,10 @@ module.exports = {
       type: 'category',
       label: 'Planning',
       collapsed: true,
-      items: ['sop/doc2', 'sop/measureguide', 'sop/digimark']
+      items: ['sop/doc2',
+              'sop/measureguide',
+              'sop/digimark',
+              'sop/onekey']
     },
     {
       type: 'category',
@@ -92,11 +95,13 @@ module.exports = {
         {
           'Solid Surface': [
             'sop/solidsurfacesink',
+            'sop/solidsurfacejoint'
           ]
         },
         {
           Sanding: [
             'sop/prepsurfaceprimer',
+            'sop/prepsurfacestainclear',
             'sop/sandblastmirrorlight',
           ],
         },
@@ -123,8 +128,10 @@ module.exports = {
       collapsed: true,
       items: [
         'sop/hardwaredeliverybox',
+        'sop/loadingthetruck',
         'sop/delivery',
-        'sop/delivery2'
+        'sop/delivery2',
+        'sop/screwboxlist'
       ]
     },
     {
