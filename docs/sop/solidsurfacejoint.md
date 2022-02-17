@@ -119,6 +119,8 @@ Sand in a checker board patern, Hoizantal then vertical. While overlapping each 
 
 Hit all edges by hand with scotch bright and soapy water before doing your final pass with the orbital on the face with scotch bright and water.
 
+#Should add Maroon Scortch bright and the Micron to Grit Conversion.
+
 Clean off all surfaces with isopropyl alcohol.
 
 Wrap all fragile edges and your done!
