@@ -39,6 +39,8 @@ When communicating with people on site wether they are clients or employees of S
 
 7. Check that you have the most current set of drawings and that they have been taped to the wall if not tape them to the wall.
 
+####Add That people should ask Tom or Brian to make sure that you have the most current revisions.
+
 8. Check that the actual dimensions match the drawings 
 
 ### Receiving Deliveries
