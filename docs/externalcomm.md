@@ -23,7 +23,7 @@ Generally you can expect a response immediately or within a few minutes
 
 :::
 
-The phone call can be used at any time it is very effective and Steve can answer while driving, **DO NOT BE AFFAID TO CALL STEVE!!** The only "dumb questions" are the ones that are not asked. If Steve can not answer the phone because he is on another call of in a meeting **LEAVE A MESSAGE**. Steve gets voice message converted to text so if he’s in a meeting he may be able to read the message. The phone call is the best choice if you have a question and will slow you down if you don’t get an answer right away.
+The phone call can be used at any time it is very effective and Steve can answer while driving, **DO NOT BE AFFAID TO CALL STEVE!!** The only "dumb questions" are the ones that are not asked. If Steve can not answer the phone because he is on another call of in a meeting **LEAVE A MESSAGE**. Steve gets voice message converted to text so if he’s in a meeting he may be able to read the message. The phone call is the best choice if you have a question and will slow you down if you don’t get an answer right away. Use the **PHONE** if there is **ANY CHANCE** there will be a delay in production or installation if you don’t have the answer you need, or drawings signed! 
 
 2. **Teams messages:**
 
