@@ -70,6 +70,15 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Hiring',
+      collapsed: true,
+      items: ['sop/hiring',
+              'sop/indeed',
+              'sop/azure_sop',
+              'sop/cabinetshop']
+    },
+    {
+      type: 'category',
       label: 'Engineering',
       collapsed: true,
       items: ['sop/electricalcode']
