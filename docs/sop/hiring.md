@@ -37,7 +37,7 @@ Powerpoint can be found here: [On Boarding Power Point](https://stirlingwood.sha
 
 Take a photo of there Driver's License
 
-[Ice HRM](hrm.stirlingwoodworks.com) is where we keep track of our employee information.
+[Ice HRM](https://hrm.stirlingwoodworks.com) is where we keep track of our employee information.
 
 ### Documents you can track in ICE
 
