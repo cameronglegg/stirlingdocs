@@ -61,6 +61,14 @@ module.exports = {
     'sop/sopintroduction',
     {
       type: 'category',
+      label: 'Cabinetshop Meastro',
+      collapsed: true,
+      items: ['sop/quote',
+              'sop/proposal',
+            ]
+    },
+    {
+      type: 'category',
       label: 'Planning',
       collapsed: true,
       items: ['sop/doc2',
