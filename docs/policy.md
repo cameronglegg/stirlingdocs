@@ -10,7 +10,9 @@ All emploees must read and understand the contents of this page
 
 ## 1. Safety
 1.1. You must know and understand the lock out procedure of the machine that you are working on
+
 1.2. Ensure that the Forklift Porpane tank has been closed after each use and at the end of every shift
+
 1.3. No drinking cups are allowed in the shop.  Water bottles with caps are allowed. 
 
 ## 2. Tracking Hours
