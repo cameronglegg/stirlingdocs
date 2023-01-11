@@ -3,10 +3,12 @@ id: apprentice
 title: Information
 ---
 
-## What is Apprentiseship
+## What is Apprenticeship
 
-[BCIT](https://www.bcit.ca/apprenticeship/)
+An apprenticeship is a great way to gain hands-on experience and valuable skills in a trade or profession. You will start an apprenticeship with on-the-job training, followed by 4x 6 week periods of in-class technical training spread over 4 years. This is done while you continue to work and get paid. Click the link below for more information
 
-## Is it right for me?
+[BCIT Joinery Apprenticeship](https://www.bcit.ca/programs/joinery-cabinetmaker-apprenticeship-full-time-4850appr//)
 
-## How do I get one?
+## When should I go to school?
+1. check the BCIT schedule to confirm when would be best for you [BCIT Joinery Training Schedule](https://www.bcit.ca/apprenticeship/students/training/joinery-cabinetmaker-apprentice/)
+2. Confirm with [Steve Glegg](stev@stirlingwoodworks) if the date doesnt conflict with the Stirling Schedule
