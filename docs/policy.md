@@ -56,7 +56,7 @@ All emploees must read and understand the contents of this page
 7.4. Smoking is not permitted inside any building we are doing work in. This includes residences and commercial buildings . Smoking must be done outside and only on designated coffee and lunch breaks  
 
 ## 8. Miscellaneous
-8.2. 'At the end of the day it is your responsibility to know what you are doing the next morning.  If you have not done this you will be sent home without pay. 
+8.2. At the end of the day it is your responsibility to know what you are doing the next morning 
 
 8.3. If you are late you will be sent home with out pay. More than 3 days late per month could result in termination. 
 
