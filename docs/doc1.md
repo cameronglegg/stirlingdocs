@@ -7,12 +7,6 @@ slug: /
 
 <!-- This is an MDX script that you add a highlight colour to text. Just add the "<Highlight>sample text</Highlight>" and set the Hex Value for your "color" inline, and voila! -->
 
-export const Highlight = ({children, color}) => ( <span style={{
-      backgroundColor: color,
-      borderRadius: '2px',
-      color: '#fff',
-      padding: '0.2rem',
-    }}>{children}</span> );
 
 Welcome to <Highlight color="#6B4B85">Stirling Docs!</Highlight>.
 
