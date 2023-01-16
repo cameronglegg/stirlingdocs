@@ -10,7 +10,6 @@ Welcome to <Highlight color="#6B4B85">Stirling Docs!</Highlight>.
 ## What is StirlingDocs for?
 
 This is the place to come if you have any questions related to any part of our organization. Questions like:
-
 - How do I start the process of an apprentiship? What documents do I need to fill out and who do I send them to?
 - The CNC machine has thrown _"X"_error. What do I do to fix it?
 - I need to mix a gallon of primer. What materials do I need and in what quantities?
