@@ -1,6 +1,6 @@
 ---
-id: leadhand
-title: Lead Hand
+id: Foreman
+title: Foreman
 ---
 
 ## Role  
@@ -11,17 +11,9 @@ title: Lead Hand
 4. maintaining the correct number of employees 
 5. making sure required materials are available 
 6. quality control - check products for quality and completeness before delivery 
-7. shop drawings (must be checked before production starts) 
-8. cutting lists 
+7. checking shop drawings (must be checked before production starts) 
 9. purchasing when required (must be confirmed with steve) 
 10. other duties as required 
-11. operate blum boring machine and maintain hinge inventory  
-
-:::important
-
-### Reports to?
-
-The Installer reports to the **Shop Foreman**
 
 :::
 
