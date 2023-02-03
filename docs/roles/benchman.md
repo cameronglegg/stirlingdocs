@@ -6,23 +6,22 @@ title: Benchman
 ## Role  
 
 1. small table saw operator  
-2. miter sw operator 
+2. miter saw operator 
 3. edge bander operator 
 4. other duties as assigned 
-5. updating info book 
-6. organizing your work area 
-7. assemble cabinets 
-8. raw wood sanding 
-9. laminating 
-10. staining and lacquering 
-11. finish sanding 
-12. installation as required 
+5. organizing your work area 
+6. assemble cabinets 
+7. raw wood sanding 
+8. laminating 
+9. staining and lacquering if required
+10. finish sanding 
+11. installation as required 
     
 :::important
 
 ### Reports to?
 
-The Installer reports to the **Shop Foreman**
+Reports to the **Shop Foreman**
 
 :::
 
@@ -30,9 +29,8 @@ The Installer reports to the **Shop Foreman**
 1.  Equipment Maintenance
     1. planer 
     2. drill press 
-    3. metal cutting band saw 
-    4. edge bander  
-    5. general table saw 
+    3. edge bander  
+    4. general table saw 
 2.  Clean up
     1. panel storage area 
     2. saw area 
